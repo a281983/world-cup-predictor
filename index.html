@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>World Cup 2026 Bracket Predictor — tune your theory of what wins</title>
+<meta name="description" content="Don't just pick winners — set your theory of what wins football tournaments, and watch the bracket obey." />
+<link rel="stylesheet" href="./styles.css" />
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <div class="eyebrow">FIFA World Cup 2026 · USA · Canada · Mexico</div>
+    <h1>Bracket Predictor</h1>
+    <p class="thesis">You're not picking winners. You're setting a <em>theory of what wins tournaments</em> — and the bracket obeys.</p>
+  </div>
+  <div id="champ" class="champ-banner">—</div>
+</header>
+
+<div class="toolbar">
+  <div class="tools">
+    <button id="reset">Reset to defaults</button>
+    <button id="randomize">Randomize</button>
+    <button id="share">Share my theory</button>
+    <button id="refresh">↻ Refresh live</button>
+    <button id="toggleGroups" class="ghost">Show group stage</button>
+  </div>
+  <div class="snapwrap">data through <span id="snap">…</span> · <span class="src">openfootball</span></div>
+</div>
+
+<div class="counter" id="counter" aria-label="Engine workload">
+  <div class="stat"><b id="cTeams">0</b><span>teams analysed</span></div>
+  <div class="stat"><b id="cData">0</b><span>data points</span></div>
+  <div class="stat"><b id="cSims">0</b><span>bracket simulations</span></div>
+  <div class="stat headline"><b id="cComp">0</b><span>computations / refresh</span></div>
+</div>
+
+<section class="board">
+  <div id="loading" class="loading">Loading tournament…</div>
+  <div id="bracket" class="bracket" aria-label="Knockout bracket"></div>
+  <div class="scrollhint" id="scrollHint">Swipe to follow the bracket <span class="arrow">→</span></div>
+</section>
+
+<section id="groups" class="groups">
+  <div class="ghint">14 group games are still unplayed — the engine predicts them, completes the table, and seeds the eight best third-place teams into the Round of 32. <b class="adv-key">▮</b> top two &nbsp; <b class="adv3-key">▮</b> best-third qualifier</div>
+  <div id="groupsBody" class="groups-grid"></div>
+</section>
+
+<section class="panel">
+  <div class="panel-head">
+    <h2>Prediction parameters</h2>
+    <p>Each lever changes how the model scores all 48 teams. Drag one and the whole bracket re-cascades.</p>
+  </div>
+  <div id="controls" class="controls"></div>
+</section>
+
+<footer class="foot">
+  <p><b>For entertainment only.</b> Group-stage results are real (<a href="https://github.com/openfootball/worldcup.json">openfootball</a>, MIT); Elo is computed from ~49k real internationals since 1872 and head-to-head records come from the same dataset (<a href="https://github.com/martj42/international_results">martj42/international_results</a>, CC0); FIFA rank is derived from that Elo. Squad-depth, cohesion, penalty and similar fields remain Elo-anchored <em>synthetic</em> values, illustrative not measured. Not affiliated with FIFA. Not a betting tool.</p>
+  <p class="wp-link"><a href="./methodology.html" target="_blank" rel="noopener">📄 Read the methodology &amp; data white paper →</a> <span>every column, the statistical model, and how each slider works.</span></p>
+</footer>
+
+<div id="popover" class="popover"></div>
+<div id="tip" class="tip"></div>
+<div id="toast"></div>
+<div id="celebrate" class="celebrate" aria-live="polite"></div>
+
+<script type="module" src="./js/ui.js"></script>
+</body>
+</html>

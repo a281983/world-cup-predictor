@@ -1,0 +1,8569 @@
+{
+ "_note": "eloRating is REAL — World Football Elo computed from the full martj42/international_results match history (CC0). fifaRank is derived from that Elo. recentForm is derived from real played group results. squad/tactical fields are synthetic, Elo-anchored, illustrative only — see README and methodology.",
+ "teams": [
+  {
+   "code": "ARG",
+   "name": "Argentina",
+   "flag": "🇦🇷",
+   "fifaRank": 1,
+   "eloRating": 2223,
+   "group": "J",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 5,
+     "last10GoalsAgainst": 0
+    },
+    "historical": {
+     "wcTitles": 3,
+     "wcFinals": 6,
+     "wcSemis": 6,
+     "allTimeWinPct": 0.75,
+     "knockoutWinPct": 0.71
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.865,
+     "squadDepthScore": 0.89,
+     "tacticalCohesion": 0.82
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.662,
+     "avgPossession": 61.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "URU": [
+      0.432,
+      183
+     ],
+     "RSA": [
+      0.07,
+      3
+     ],
+     "BRA": [
+      0.339,
+      110
+     ],
+     "PAR": [
+      0.081,
+      107
+     ],
+     "POR": [
+      0.28,
+      8
+     ],
+     "USA": [
+      0.393,
+      11
+     ],
+     "BEL": [
+      0.644,
+      5
+     ],
+     "EGY": [
+      1.0,
+      2
+     ],
+     "FRA": [
+      0.221,
+      13
+     ],
+     "MEX": [
+      0.84,
+      32
+     ],
+     "SWE": [
+      0.07,
+      3
+     ],
+     "ECU": [
+      0.335,
+      42
+     ],
+     "COL": [
+      0.142,
+      43
+     ],
+     "ENG": [
+      -0.342,
+      15
+     ],
+     "ESP": [
+      -0.248,
+      14
+     ],
+     "GER": [
+      0.175,
+      23
+     ],
+     "SUI": [
+      0.705,
+      7
+     ],
+     "NED": [
+      -0.255,
+      10
+     ],
+     "HAI": [
+      1.0,
+      3
+     ],
+     "IRN": [
+      0.526,
+      2
+     ],
+     "SCO": [
+      0.265,
+      4
+     ],
+     "AUT": [
+      0.668,
+      3
+     ],
+     "NOR": [
+      -1.0,
+      2
+     ],
+     "KOR": [
+      1.0,
+      3
+     ],
+     "KSA": [
+      0.132,
+      5
+     ],
+     "AUS": [
+      0.773,
+      9
+     ],
+     "JPN": [
+      0.617,
+      7
+     ],
+     "CIV": [
+      1.0,
+      2
+     ],
+     "MAR": [
+      1.0,
+      3
+     ],
+     "CRO": [
+      0.179,
+      6
+     ],
+     "BIH": [
+      1.0,
+      3
+     ],
+     "TUN": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      2
+     ],
+     "ALG": [
+      1.0,
+      2
+     ],
+     "PAN": [
+      1.0,
+      3
+     ],
+     "GHA": [
+      1.0,
+      1
+     ],
+     "CAN": [
+      1.0,
+      3
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "CUW": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "ESP",
+   "name": "Spain",
+   "flag": "🇪🇸",
+   "fifaRank": 2,
+   "eloRating": 2200,
+   "group": "H",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W"
+     ],
+     "last10GoalsFor": 4,
+     "last10GoalsAgainst": 0
+    },
+    "historical": {
+     "wcTitles": 1,
+     "wcFinals": 1,
+     "wcSemis": 3,
+     "allTimeWinPct": 0.735,
+     "knockoutWinPct": 0.781
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.849,
+     "squadDepthScore": 0.895,
+     "tacticalCohesion": 0.805
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.465,
+     "avgPossession": 60.7,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "BEL": [
+      0.843,
+      22
+     ],
+     "SWE": [
+      0.274,
+      18
+     ],
+     "NED": [
+      -0.337,
+      15
+     ],
+     "POR": [
+      0.071,
+      42
+     ],
+     "FRA": [
+      0.468,
+      38
+     ],
+     "AUT": [
+      0.569,
+      16
+     ],
+     "SUI": [
+      0.354,
+      27
+     ],
+     "MEX": [
+      0.527,
+      7
+     ],
+     "ENG": [
+      0.311,
+      28
+     ],
+     "BRA": [
+      -0.298,
+      10
+     ],
+     "GER": [
+      0.349,
+      27
+     ],
+     "USA": [
+      0.56,
+      5
+     ],
+     "URU": [
+      0.59,
+      10
+     ],
+     "TUR": [
+      0.497,
+      12
+     ],
+     "ARG": [
+      0.248,
+      14
+     ],
+     "SCO": [
+      0.326,
+      15
+     ],
+     "MAR": [
+      0.448,
+      4
+     ],
+     "NOR": [
+      0.639,
+      10
+     ],
+     "COL": [
+      -0.055,
+      4
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "KOR": [
+      0.704,
+      6
+     ],
+     "CRO": [
+      0.391,
+      11
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "CZE": [
+      0.726,
+      7
+     ],
+     "PAR": [
+      0.526,
+      4
+     ],
+     "BIH": [
+      0.781,
+      8
+     ],
+     "JPN": [
+      -0.053,
+      2
+     ],
+     "RSA": [
+      0.418,
+      4
+     ],
+     "ECU": [
+      1.0,
+      2
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "EGY": [
+      0.474,
+      2
+     ],
+     "TUN": [
+      1.0,
+      2
+     ],
+     "KSA": [
+      1.0,
+      4
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "IRQ": [
+      0.474,
+      2
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "HAI": [
+      1.0,
+      1
+     ],
+     "AUS": [
+      1.0,
+      1
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      1
+     ],
+     "CPV": [
+      -0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "FRA",
+   "name": "France",
+   "flag": "🇫🇷",
+   "fifaRank": 3,
+   "eloRating": 2157,
+   "group": "I",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 6,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 2,
+     "wcFinals": 4,
+     "wcSemis": 7,
+     "allTimeWinPct": 0.706,
+     "knockoutWinPct": 0.704
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.871,
+     "squadDepthScore": 0.904,
+     "tacticalCohesion": 0.842
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.475,
+     "avgPossession": 59.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "BEL": [
+      0.545,
+      78
+     ],
+     "SUI": [
+      0.273,
+      39
+     ],
+     "NED": [
+      0.504,
+      31
+     ],
+     "ESP": [
+      -0.468,
+      38
+     ],
+     "NOR": [
+      0.158,
+      16
+     ],
+     "ENG": [
+      0.447,
+      34
+     ],
+     "URU": [
+      0.115,
+      10
+     ],
+     "AUT": [
+      0.593,
+      26
+     ],
+     "POR": [
+      0.395,
+      27
+     ],
+     "SCO": [
+      0.395,
+      17
+     ],
+     "MEX": [
+      0.491,
+      7
+     ],
+     "ARG": [
+      -0.221,
+      13
+     ],
+     "BRA": [
+      0.199,
+      17
+     ],
+     "GER": [
+      0.184,
+      35
+     ],
+     "SWE": [
+      0.43,
+      23
+     ],
+     "PAR": [
+      0.582,
+      5
+     ],
+     "SEN": [
+      -0.262,
+      3
+     ],
+     "COL": [
+      0.56,
+      5
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "TUN": [
+      0.114,
+      5
+     ],
+     "USA": [
+      0.709,
+      4
+     ],
+     "CAN": [
+      0.474,
+      2
+     ],
+     "MAR": [
+      0.668,
+      6
+     ],
+     "AUS": [
+      0.564,
+      6
+     ],
+     "JPN": [
+      0.433,
+      6
+     ],
+     "CZE": [
+      -0.029,
+      4
+     ],
+     "TUR": [
+      0.402,
+      6
+     ],
+     "RSA": [
+      0.363,
+      5
+     ],
+     "KSA": [
+      1.0,
+      1
+     ],
+     "CRO": [
+      0.223,
+      12
+     ],
+     "KOR": [
+      0.631,
+      3
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "EGY": [
+      1.0,
+      1
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.488,
+      6
+     ],
+     "CIV": [
+      0.183,
+      4
+     ],
+     "ECU": [
+      0.474,
+      2
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "BRA",
+   "name": "Brazil",
+   "flag": "🇧🇷",
+   "fifaRank": 4,
+   "eloRating": 2097,
+   "group": "C",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 7,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 5,
+     "wcFinals": 7,
+     "wcSemis": 11,
+     "allTimeWinPct": 0.666,
+     "knockoutWinPct": 0.699
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.862,
+     "squadDepthScore": 0.818,
+     "tacticalCohesion": 0.787
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.649,
+     "avgPossession": 59.8,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ARG": [
+      -0.339,
+      110
+     ],
+     "URU": [
+      0.386,
+      79
+     ],
+     "PAR": [
+      0.434,
+      84
+     ],
+     "FRA": [
+      -0.199,
+      17
+     ],
+     "USA": [
+      0.846,
+      20
+     ],
+     "ESP": [
+      0.298,
+      10
+     ],
+     "SWE": [
+      0.478,
+      15
+     ],
+     "ECU": [
+      0.477,
+      36
+     ],
+     "COL": [
+      0.357,
+      38
+     ],
+     "MEX": [
+      0.456,
+      42
+     ],
+     "SUI": [
+      0.204,
+      10
+     ],
+     "PAN": [
+      0.78,
+      5
+     ],
+     "POR": [
+      0.346,
+      21
+     ],
+     "AUT": [
+      0.727,
+      10
+     ],
+     "TUR": [
+      0.635,
+      6
+     ],
+     "ENG": [
+      0.35,
+      27
+     ],
+     "EGY": [
+      1.0,
+      7
+     ],
+     "BEL": [
+      0.191,
+      5
+     ],
+     "NED": [
+      -0.052,
+      12
+     ],
+     "GER": [
+      0.183,
+      23
+     ],
+     "ALG": [
+      1.0,
+      4
+     ],
+     "SCO": [
+      0.927,
+      11
+     ],
+     "TUN": [
+      0.631,
+      3
+     ],
+     "HAI": [
+      1.0,
+      4
+     ],
+     "COD": [
+      1.0,
+      1
+     ],
+     "NZL": [
+      1.0,
+      3
+     ],
+     "AUS": [
+      0.64,
+      8
+     ],
+     "KSA": [
+      1.0,
+      5
+     ],
+     "NOR": [
+      -0.497,
+      4
+     ],
+     "JPN": [
+      0.553,
+      14
+     ],
+     "CAN": [
+      0.526,
+      4
+     ],
+     "KOR": [
+      0.826,
+      9
+     ],
+     "GHA": [
+      1.0,
+      5
+     ],
+     "RSA": [
+      1.0,
+      5
+     ],
+     "BIH": [
+      1.0,
+      2
+     ],
+     "MAR": [
+      0.186,
+      4
+     ],
+     "CZE": [
+      1.0,
+      2
+     ],
+     "CRO": [
+      0.682,
+      6
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      0.037,
+      3
+     ]
+    }
+   }
+  },
+  {
+   "code": "ENG",
+   "name": "England",
+   "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+   "fifaRank": 5,
+   "eloRating": 2097,
+   "group": "L",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "D"
+     ],
+     "last10GoalsFor": 4,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 1,
+     "wcFinals": 2,
+     "wcSemis": 3,
+     "allTimeWinPct": 0.666,
+     "knockoutWinPct": 0.619
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.857,
+     "squadDepthScore": 0.78,
+     "tacticalCohesion": 0.781
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.595,
+     "avgPossession": 55.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SCO": [
+      0.574,
+      118
+     ],
+     "AUT": [
+      0.421,
+      19
+     ],
+     "BEL": [
+      0.012,
+      27
+     ],
+     "FRA": [
+      -0.447,
+      34
+     ],
+     "SWE": [
+      0.101,
+      25
+     ],
+     "ESP": [
+      -0.311,
+      28
+     ],
+     "GER": [
+      -0.034,
+      35
+     ],
+     "SUI": [
+      0.641,
+      30
+     ],
+     "NED": [
+      -0.132,
+      23
+     ],
+     "NOR": [
+      0.308,
+      12
+     ],
+     "POR": [
+      0.078,
+      23
+     ],
+     "USA": [
+      0.559,
+      12
+     ],
+     "ARG": [
+      0.342,
+      15
+     ],
+     "URU": [
+      -0.072,
+      12
+     ],
+     "BRA": [
+      -0.35,
+      27
+     ],
+     "MEX": [
+      0.598,
+      10
+     ],
+     "COL": [
+      0.491,
+      6
+     ],
+     "ECU": [
+      0.631,
+      3
+     ],
+     "AUS": [
+      0.507,
+      8
+     ],
+     "TUR": [
+      0.796,
+      11
+     ],
+     "EGY": [
+      1.0,
+      3
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      0.526,
+      2
+     ],
+     "PAR": [
+      1.0,
+      3
+     ],
+     "KSA": [
+      0.0,
+      2
+     ],
+     "TUN": [
+      0.701,
+      3
+     ],
+     "NZL": [
+      1.0,
+      3
+     ],
+     "JPN": [
+      0.183,
+      4
+     ],
+     "CRO": [
+      0.408,
+      12
+     ],
+     "RSA": [
+      1.0,
+      2
+     ],
+     "CZE": [
+      0.382,
+      5
+     ],
+     "KOR": [
+      0.0,
+      1
+     ],
+     "ALG": [
+      -0.0,
+      1
+     ],
+     "GHA": [
+      0.0,
+      2
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      -0.053,
+      2
+     ],
+     "BIH": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "COL",
+   "name": "Colombia",
+   "flag": "🇨🇴",
+   "fifaRank": 6,
+   "eloRating": 2093,
+   "group": "K",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 4,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.664,
+     "knockoutWinPct": 0.64
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.937,
+     "squadDepthScore": 0.77,
+     "tacticalCohesion": 0.747
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.472,
+     "avgPossession": 55.8,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "MEX": [
+      0.673,
+      29
+     ],
+     "PAN": [
+      0.469,
+      7
+     ],
+     "ECU": [
+      0.11,
+      50
+     ],
+     "BRA": [
+      -0.357,
+      38
+     ],
+     "URU": [
+      -0.173,
+      47
+     ],
+     "ARG": [
+      -0.142,
+      43
+     ],
+     "CUW": [
+      1.0,
+      1
+     ],
+     "PAR": [
+      0.508,
+      51
+     ],
+     "USA": [
+      0.648,
+      21
+     ],
+     "ENG": [
+      -0.491,
+      6
+     ],
+     "FRA": [
+      -0.56,
+      5
+     ],
+     "HAI": [
+      0.529,
+      4
+     ],
+     "ESP": [
+      0.055,
+      4
+     ],
+     "SUI": [
+      0.317,
+      4
+     ],
+     "CAN": [
+      -0.033,
+      3
+     ],
+     "SCO": [
+      0.526,
+      2
+     ],
+     "EGY": [
+      0.0,
+      2
+     ],
+     "GER": [
+      -0.154,
+      5
+     ],
+     "SWE": [
+      0.0,
+      2
+     ],
+     "KSA": [
+      0.526,
+      2
+     ],
+     "KOR": [
+      -0.369,
+      8
+     ],
+     "AUS": [
+      0.738,
+      4
+     ],
+     "NOR": [
+      0.0,
+      1
+     ],
+     "BEL": [
+      0.053,
+      2
+     ],
+     "TUN": [
+      0.474,
+      2
+     ],
+     "NZL": [
+      1.0,
+      2
+     ],
+     "JPN": [
+      0.514,
+      6
+     ],
+     "TUR": [
+      -1.0,
+      1
+     ],
+     "MAR": [
+      1.0,
+      1
+     ],
+     "RSA": [
+      -1.0,
+      1
+     ],
+     "SEN": [
+      0.668,
+      3
+     ],
+     "NED": [
+      0.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      2
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "ALG": [
+      -1.0,
+      1
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ],
+     "COD": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "POR",
+   "name": "Portugal",
+   "flag": "🇵🇹",
+   "fifaRank": 7,
+   "eloRating": 2054,
+   "group": "K",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W"
+     ],
+     "last10GoalsFor": 6,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 2,
+     "allTimeWinPct": 0.638,
+     "knockoutWinPct": 0.647
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.789,
+     "squadDepthScore": 0.757,
+     "tacticalCohesion": 0.806
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.529,
+     "avgPossession": 55.2,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ESP": [
+      -0.071,
+      42
+     ],
+     "FRA": [
+      -0.395,
+      27
+     ],
+     "ARG": [
+      -0.28,
+      8
+     ],
+     "EGY": [
+      0.576,
+      4
+     ],
+     "BEL": [
+      0.109,
+      19
+     ],
+     "AUT": [
+      0.049,
+      11
+     ],
+     "GER": [
+      -0.39,
+      20
+     ],
+     "SUI": [
+      0.313,
+      26
+     ],
+     "ENG": [
+      -0.078,
+      23
+     ],
+     "SCO": [
+      0.55,
+      17
+     ],
+     "RSA": [
+      1.0,
+      2
+     ],
+     "SWE": [
+      0.555,
+      21
+     ],
+     "TUR": [
+      0.632,
+      10
+     ],
+     "BRA": [
+      -0.346,
+      21
+     ],
+     "NOR": [
+      0.56,
+      11
+     ],
+     "URU": [
+      0.241,
+      4
+     ],
+     "MEX": [
+      0.488,
+      6
+     ],
+     "ECU": [
+      -0.053,
+      2
+     ],
+     "IRN": [
+      0.631,
+      3
+     ],
+     "USA": [
+      0.12,
+      8
+     ],
+     "MAR": [
+      -0.336,
+      3
+     ],
+     "NED": [
+      0.385,
+      14
+     ],
+     "CAN": [
+      0.526,
+      2
+     ],
+     "CRO": [
+      0.507,
+      10
+     ],
+     "CZE": [
+      0.748,
+      6
+     ],
+     "KOR": [
+      -1.0,
+      2
+     ],
+     "TUN": [
+      0.0,
+      2
+     ],
+     "PAR": [
+      -0.0,
+      1
+     ],
+     "KSA": [
+      1.0,
+      2
+     ],
+     "CPV": [
+      -0.07,
+      3
+     ],
+     "BIH": [
+      0.844,
+      6
+     ],
+     "CIV": [
+      -0.0,
+      1
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "GHA": [
+      1.0,
+      2
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      2
+     ],
+     "COD": [
+      -0.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "NED",
+   "name": "Netherlands",
+   "flag": "🇳🇱",
+   "fifaRank": 8,
+   "eloRating": 2049,
+   "group": "F",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 10,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 3,
+     "wcSemis": 5,
+     "allTimeWinPct": 0.635,
+     "knockoutWinPct": 0.68
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.917,
+     "squadDepthScore": 0.802,
+     "tacticalCohesion": 0.709
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.749,
+     "avgPossession": 54.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "BEL": [
+      0.1,
+      129
+     ],
+     "FRA": [
+      -0.504,
+      31
+     ],
+     "SWE": [
+      0.365,
+      26
+     ],
+     "GER": [
+      -0.254,
+      48
+     ],
+     "AUT": [
+      0.501,
+      21
+     ],
+     "NOR": [
+      0.617,
+      23
+     ],
+     "SUI": [
+      0.074,
+      32
+     ],
+     "ESP": [
+      0.337,
+      15
+     ],
+     "URU": [
+      -0.091,
+      6
+     ],
+     "RSA": [
+      1.0,
+      3
+     ],
+     "EGY": [
+      -0.299,
+      3
+     ],
+     "SCO": [
+      0.559,
+      21
+     ],
+     "ENG": [
+      0.132,
+      23
+     ],
+     "CUW": [
+      0.091,
+      6
+     ],
+     "TUR": [
+      0.301,
+      15
+     ],
+     "MEX": [
+      -0.013,
+      9
+     ],
+     "BRA": [
+      0.052,
+      12
+     ],
+     "ARG": [
+      0.255,
+      10
+     ],
+     "TUN": [
+      0.503,
+      4
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "POR": [
+      -0.385,
+      14
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "KSA": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      0.336,
+      3
+     ],
+     "CZE": [
+      -0.31,
+      12
+     ],
+     "USA": [
+      0.616,
+      6
+     ],
+     "PAR": [
+      0.474,
+      2
+     ],
+     "KOR": [
+      1.0,
+      2
+     ],
+     "CRO": [
+      -0.336,
+      3
+     ],
+     "GHA": [
+      0.701,
+      3
+     ],
+     "ECU": [
+      0.212,
+      4
+     ],
+     "AUS": [
+      0.055,
+      4
+     ],
+     "CIV": [
+      1.0,
+      2
+     ],
+     "JPN": [
+      0.448,
+      4
+     ],
+     "COL": [
+      -0.0,
+      1
+     ],
+     "BIH": [
+      0.497,
+      4
+     ],
+     "SEN": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "ALG": [
+      -1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "MAR",
+   "name": "Morocco",
+   "flag": "🇲🇦",
+   "fifaRank": 9,
+   "eloRating": 2026,
+   "group": "C",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 6,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 1,
+     "allTimeWinPct": 0.619,
+     "knockoutWinPct": 0.623
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.909,
+     "squadDepthScore": 0.78,
+     "tacticalCohesion": 0.753
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.732,
+     "avgPossession": 53.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "TUN": [
+      0.29,
+      37
+     ],
+     "GHA": [
+      0.226,
+      12
+     ],
+     "ESP": [
+      -0.448,
+      4
+     ],
+     "SUI": [
+      1.0,
+      2
+     ],
+     "GER": [
+      -1.0,
+      4
+     ],
+     "ALG": [
+      0.383,
+      26
+     ],
+     "IRQ": [
+      0.06,
+      7
+     ],
+     "SEN": [
+      0.449,
+      32
+     ],
+     "CIV": [
+      0.158,
+      22
+     ],
+     "EGY": [
+      0.066,
+      22
+     ],
+     "COD": [
+      0.21,
+      16
+     ],
+     "QAT": [
+      0.474,
+      2
+     ],
+     "KSA": [
+      0.145,
+      8
+     ],
+     "IRN": [
+      -0.369,
+      3
+     ],
+     "KOR": [
+      0.291,
+      4
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "CAN": [
+      0.764,
+      4
+     ],
+     "ENG": [
+      -0.526,
+      2
+     ],
+     "POR": [
+      0.336,
+      3
+     ],
+     "AUS": [
+      -1.0,
+      1
+     ],
+     "AUT": [
+      1.0,
+      1
+     ],
+     "FRA": [
+      -0.668,
+      6
+     ],
+     "USA": [
+      0.418,
+      4
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "BEL": [
+      0.105,
+      4
+     ],
+     "NED": [
+      -0.336,
+      3
+     ],
+     "CRO": [
+      -0.369,
+      3
+     ],
+     "BRA": [
+      -0.186,
+      4
+     ],
+     "RSA": [
+      -0.207,
+      9
+     ],
+     "NOR": [
+      0.0,
+      2
+     ],
+     "SCO": [
+      1.0,
+      2
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "CZE": [
+      -0.0,
+      1
+     ],
+     "CPV": [
+      0.497,
+      4
+     ],
+     "URU": [
+      -1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      2
+     ],
+     "PAR": [
+      0.526,
+      2
+     ],
+     "ECU": [
+      -0.0,
+      1
+     ],
+     "HAI": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "MEX",
+   "name": "Mexico",
+   "flag": "🇲🇽",
+   "fifaRank": 10,
+   "eloRating": 2018,
+   "group": "A",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 6,
+     "last10GoalsAgainst": 0
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.614,
+     "knockoutWinPct": 0.649
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.835,
+     "squadDepthScore": 0.747,
+     "tacticalCohesion": 0.714
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.604,
+     "avgPossession": 53.2,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ESP": [
+      -0.527,
+      7
+     ],
+     "FRA": [
+      -0.491,
+      7
+     ],
+     "ARG": [
+      -0.84,
+      32
+     ],
+     "USA": [
+      -0.106,
+      76
+     ],
+     "COL": [
+      -0.673,
+      29
+     ],
+     "PAN": [
+      0.918,
+      28
+     ],
+     "BRA": [
+      -0.456,
+      42
+     ],
+     "SUI": [
+      -0.635,
+      7
+     ],
+     "URU": [
+      -0.306,
+      24
+     ],
+     "HAI": [
+      0.806,
+      11
+     ],
+     "CAN": [
+      0.442,
+      35
+     ],
+     "SWE": [
+      -0.367,
+      11
+     ],
+     "ENG": [
+      -0.598,
+      10
+     ],
+     "NED": [
+      0.013,
+      9
+     ],
+     "CUW": [
+      0.48,
+      7
+     ],
+     "NOR": [
+      0.144,
+      6
+     ],
+     "PAR": [
+      0.27,
+      21
+     ],
+     "JPN": [
+      0.638,
+      8
+     ],
+     "GER": [
+      -0.192,
+      13
+     ],
+     "POR": [
+      -0.488,
+      6
+     ],
+     "BEL": [
+      0.1,
+      8
+     ],
+     "ECU": [
+      -0.086,
+      26
+     ],
+     "TUN": [
+      -1.0,
+      1
+     ],
+     "KOR": [
+      0.386,
+      15
+     ],
+     "NZL": [
+      0.832,
+      8
+     ],
+     "AUS": [
+      -0.115,
+      6
+     ],
+     "JOR": [
+      -0.0,
+      1
+     ],
+     "EGY": [
+      0.285,
+      4
+     ],
+     "ALG": [
+      0.474,
+      2
+     ],
+     "IRQ": [
+      1.0,
+      2
+     ],
+     "CRO": [
+      -0.343,
+      6
+     ],
+     "RSA": [
+      0.385,
+      5
+     ],
+     "KSA": [
+      0.86,
+      7
+     ],
+     "IRN": [
+      1.0,
+      3
+     ],
+     "CZE": [
+      0.053,
+      2
+     ],
+     "GHA": [
+      1.0,
+      4
+     ],
+     "COD": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.477,
+      4
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "SCO": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      -1.0,
+      1
+     ],
+     "UZB": [
+      0.0,
+      1
+     ],
+     "TUR": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "NOR",
+   "name": "Norway",
+   "flag": "🇳🇴",
+   "fifaRank": 11,
+   "eloRating": 2015,
+   "group": "I",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 7,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.612,
+     "knockoutWinPct": 0.603
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.94,
+     "squadDepthScore": 0.81,
+     "tacticalCohesion": 0.691
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.641,
+     "avgPossession": 55.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SWE": [
+      0.468,
+      110
+     ],
+     "AUT": [
+      -0.144,
+      14
+     ],
+     "USA": [
+      -0.088,
+      5
+     ],
+     "NED": [
+      -0.617,
+      23
+     ],
+     "FRA": [
+      -0.158,
+      16
+     ],
+     "SUI": [
+      -0.031,
+      20
+     ],
+     "GER": [
+      -0.751,
+      21
+     ],
+     "SCO": [
+      -0.16,
+      20
+     ],
+     "ENG": [
+      -0.308,
+      12
+     ],
+     "EGY": [
+      0.468,
+      6
+     ],
+     "MEX": [
+      -0.144,
+      6
+     ],
+     "TUR": [
+      -0.306,
+      10
+     ],
+     "POR": [
+      -0.56,
+      11
+     ],
+     "URU": [
+      -0.474,
+      2
+     ],
+     "BEL": [
+      -0.659,
+      9
+     ],
+     "ESP": [
+      -0.639,
+      10
+     ],
+     "ARG": [
+      1.0,
+      2
+     ],
+     "BRA": [
+      0.497,
+      4
+     ],
+     "KOR": [
+      0.238,
+      4
+     ],
+     "TUN": [
+      0.474,
+      2
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "GHA": [
+      1.0,
+      1
+     ],
+     "CZE": [
+      -0.45,
+      9
+     ],
+     "NZL": [
+      0.474,
+      2
+     ],
+     "AUS": [
+      0.07,
+      3
+     ],
+     "COL": [
+      -0.0,
+      1
+     ],
+     "KSA": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      -0.0,
+      2
+     ],
+     "JPN": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.006,
+      4
+     ],
+     "JOR": [
+      0.526,
+      2
+     ],
+     "SEN": [
+      0.053,
+      2
+     ],
+     "PAR": [
+      0.0,
+      1
+     ],
+     "CRO": [
+      -0.314,
+      5
+     ],
+     "RSA": [
+      0.402,
+      3
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "GER",
+   "name": "Germany",
+   "flag": "🇩🇪",
+   "fifaRank": 12,
+   "eloRating": 1998,
+   "group": "E",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W",
+      "L"
+     ],
+     "last10GoalsFor": 10,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 4,
+     "wcFinals": 8,
+     "wcSemis": 13,
+     "allTimeWinPct": 0.601,
+     "knockoutWinPct": 0.568
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.934,
+     "squadDepthScore": 0.744,
+     "tacticalCohesion": 0.702
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.352,
+     "avgPossession": 55.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SUI": [
+      0.358,
+      55
+     ],
+     "AUT": [
+      0.417,
+      41
+     ],
+     "NED": [
+      0.254,
+      48
+     ],
+     "BEL": [
+      0.693,
+      26
+     ],
+     "SWE": [
+      0.638,
+      37
+     ],
+     "NOR": [
+      0.751,
+      21
+     ],
+     "URU": [
+      0.809,
+      11
+     ],
+     "SCO": [
+      0.718,
+      18
+     ],
+     "ENG": [
+      0.034,
+      35
+     ],
+     "FRA": [
+      -0.184,
+      35
+     ],
+     "ESP": [
+      -0.349,
+      27
+     ],
+     "POR": [
+      0.39,
+      20
+     ],
+     "CRO": [
+      0.251,
+      8
+     ],
+     "TUR": [
+      0.145,
+      22
+     ],
+     "ARG": [
+      -0.175,
+      23
+     ],
+     "EGY": [
+      -1.0,
+      1
+     ],
+     "BRA": [
+      -0.183,
+      23
+     ],
+     "MAR": [
+      1.0,
+      4
+     ],
+     "ALG": [
+      -0.262,
+      3
+     ],
+     "MEX": [
+      0.192,
+      13
+     ],
+     "AUS": [
+      0.462,
+      6
+     ],
+     "TUN": [
+      0.369,
+      3
+     ],
+     "COL": [
+      0.154,
+      5
+     ],
+     "GHA": [
+      0.738,
+      4
+     ],
+     "USA": [
+      0.299,
+      13
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "KOR": [
+      -0.105,
+      4
+     ],
+     "RSA": [
+      0.788,
+      4
+     ],
+     "CZE": [
+      0.569,
+      9
+     ],
+     "KSA": [
+      1.0,
+      3
+     ],
+     "IRN": [
+      1.0,
+      2
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "PAR": [
+      0.474,
+      2
+     ],
+     "BIH": [
+      0.788,
+      4
+     ],
+     "JPN": [
+      -0.341,
+      4
+     ],
+     "ECU": [
+      0.262,
+      3
+     ],
+     "CIV": [
+      0.526,
+      2
+     ],
+     "CUW": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "JPN",
+   "name": "Japan",
+   "flag": "🇯🇵",
+   "fifaRank": 13,
+   "eloRating": 1998,
+   "group": "F",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "D"
+     ],
+     "last10GoalsFor": 7,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.601,
+     "knockoutWinPct": 0.574
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.892,
+     "squadDepthScore": 0.794,
+     "tacticalCohesion": 0.693
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.571,
+     "avgPossession": 55.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "IRN": [
+      0.063,
+      19
+     ],
+     "KOR": [
+      0.168,
+      73
+     ],
+     "MEX": [
+      -0.638,
+      8
+     ],
+     "AUS": [
+      0.339,
+      28
+     ],
+     "IRQ": [
+      0.495,
+      13
+     ],
+     "NZL": [
+      0.576,
+      4
+     ],
+     "URU": [
+      -0.182,
+      9
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      -0.497,
+      4
+     ],
+     "JOR": [
+      0.349,
+      7
+     ],
+     "QAT": [
+      0.026,
+      8
+     ],
+     "BRA": [
+      -0.553,
+      14
+     ],
+     "KSA": [
+      0.309,
+      18
+     ],
+     "ARG": [
+      -0.617,
+      7
+     ],
+     "SUI": [
+      -0.037,
+      3
+     ],
+     "USA": [
+      -0.053,
+      4
+     ],
+     "CIV": [
+      0.165,
+      5
+     ],
+     "FRA": [
+      -0.433,
+      6
+     ],
+     "GHA": [
+      0.508,
+      8
+     ],
+     "SCO": [
+      0.552,
+      4
+     ],
+     "ECU": [
+      0.448,
+      4
+     ],
+     "ENG": [
+      -0.183,
+      4
+     ],
+     "SWE": [
+      -0.198,
+      5
+     ],
+     "PAR": [
+      0.482,
+      12
+     ],
+     "UZB": [
+      0.475,
+      11
+     ],
+     "TUN": [
+      0.616,
+      6
+     ],
+     "CRO": [
+      -0.024,
+      4
+     ],
+     "TUR": [
+      0.336,
+      3
+     ],
+     "CZE": [
+      0.332,
+      3
+     ],
+     "EGY": [
+      1.0,
+      2
+     ],
+     "BEL": [
+      -0.077,
+      6
+     ],
+     "ESP": [
+      0.053,
+      2
+     ],
+     "CAN": [
+      0.477,
+      4
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -0.514,
+      6
+     ],
+     "GER": [
+      0.341,
+      4
+     ],
+     "BIH": [
+      -0.037,
+      3
+     ],
+     "AUT": [
+      -0.0,
+      1
+     ],
+     "NED": [
+      -0.448,
+      4
+     ],
+     "RSA": [
+      0.0,
+      1
+     ],
+     "HAI": [
+      -0.0,
+      1
+     ],
+     "PAN": [
+      1.0,
+      2
+     ]
+    }
+   }
+  },
+  {
+   "code": "ECU",
+   "name": "Ecuador",
+   "flag": "🇪🇨",
+   "fifaRank": 14,
+   "eloRating": 1995,
+   "group": "E",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "D",
+      "W"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.599,
+     "knockoutWinPct": 0.623
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.926,
+     "squadDepthScore": 0.749,
+     "tacticalCohesion": 0.747
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.736,
+     "avgPossession": 54.1,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "COL": [
+      -0.11,
+      50
+     ],
+     "URU": [
+      0.03,
+      50
+     ],
+     "PAR": [
+      -0.105,
+      42
+     ],
+     "ARG": [
+      -0.335,
+      42
+     ],
+     "BRA": [
+      -0.477,
+      36
+     ],
+     "MEX": [
+      0.086,
+      26
+     ],
+     "ENG": [
+      -0.631,
+      3
+     ],
+     "POR": [
+      0.053,
+      2
+     ],
+     "IRN": [
+      0.369,
+      3
+     ],
+     "HAI": [
+      0.248,
+      5
+     ],
+     "USA": [
+      -0.202,
+      14
+     ],
+     "KOR": [
+      -0.053,
+      2
+     ],
+     "SCO": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -0.448,
+      4
+     ],
+     "QAT": [
+      0.265,
+      4
+     ],
+     "CAN": [
+      0.448,
+      4
+     ],
+     "PAN": [
+      0.732,
+      7
+     ],
+     "TUR": [
+      1.0,
+      1
+     ],
+     "RSA": [
+      0.0,
+      1
+     ],
+     "SEN": [
+      -1.0,
+      3
+     ],
+     "CRO": [
+      1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      2
+     ],
+     "JOR": [
+      -1.0,
+      1
+     ],
+     "NED": [
+      -0.212,
+      4
+     ],
+     "GER": [
+      -0.262,
+      3
+     ],
+     "SWE": [
+      0.474,
+      2
+     ],
+     "FRA": [
+      -0.474,
+      2
+     ],
+     "AUS": [
+      0.336,
+      3
+     ],
+     "SUI": [
+      -1.0,
+      1
+     ],
+     "CPV": [
+      1.0,
+      1
+     ],
+     "KSA": [
+      0.526,
+      2
+     ],
+     "IRQ": [
+      0.0,
+      1
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      0.0,
+      1
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ],
+     "CUW": [
+      -0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "SUI",
+   "name": "Switzerland",
+   "flag": "🇨🇭",
+   "fifaRank": 15,
+   "eloRating": 1980,
+   "group": "B",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 7,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.589,
+     "knockoutWinPct": 0.624
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.936,
+     "squadDepthScore": 0.733,
+     "tacticalCohesion": 0.754
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.737,
+     "avgPossession": 51.8,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "FRA": [
+      -0.273,
+      39
+     ],
+     "GER": [
+      -0.358,
+      55
+     ],
+     "BEL": [
+      -0.46,
+      30
+     ],
+     "AUT": [
+      0.366,
+      43
+     ],
+     "NED": [
+      -0.074,
+      32
+     ],
+     "SWE": [
+      0.288,
+      31
+     ],
+     "NOR": [
+      0.031,
+      20
+     ],
+     "URU": [
+      -0.764,
+      4
+     ],
+     "ESP": [
+      -0.354,
+      27
+     ],
+     "SCO": [
+      0.04,
+      17
+     ],
+     "ENG": [
+      -0.641,
+      30
+     ],
+     "POR": [
+      -0.313,
+      26
+     ],
+     "CRO": [
+      -0.126,
+      7
+     ],
+     "BRA": [
+      -0.204,
+      10
+     ],
+     "MEX": [
+      0.635,
+      7
+     ],
+     "TUR": [
+      -0.148,
+      16
+     ],
+     "MAR": [
+      -1.0,
+      2
+     ],
+     "ARG": [
+      -0.705,
+      7
+     ],
+     "USA": [
+      0.394,
+      10
+     ],
+     "ALG": [
+      1.0,
+      2
+     ],
+     "CIV": [
+      -0.474,
+      2
+     ],
+     "COL": [
+      -0.317,
+      4
+     ],
+     "EGY": [
+      1.0,
+      1
+     ],
+     "JPN": [
+      0.037,
+      3
+     ],
+     "TUN": [
+      0.668,
+      3
+     ],
+     "CZE": [
+      -0.321,
+      6
+     ],
+     "CAN": [
+      0.053,
+      2
+     ],
+     "KOR": [
+      -0.053,
+      2
+     ],
+     "AUS": [
+      -0.0,
+      2
+     ],
+     "ECU": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.053,
+      2
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "QAT": [
+      -0.474,
+      2
+     ],
+     "GHA": [
+      -1.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CRO",
+   "name": "Croatia",
+   "flag": "🇭🇷",
+   "fifaRank": 16,
+   "eloRating": 1958,
+   "group": "L",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "W"
+     ],
+     "last10GoalsFor": 3,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 1,
+     "wcSemis": 3,
+     "allTimeWinPct": 0.574,
+     "knockoutWinPct": 0.553
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.865,
+     "squadDepthScore": 0.772,
+     "tacticalCohesion": 0.733
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.575,
+     "avgPossession": 51.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SUI": [
+      0.126,
+      7
+     ],
+     "GER": [
+      -0.251,
+      8
+     ],
+     "USA": [
+      1.0,
+      1
+     ],
+     "AUS": [
+      0.12,
+      6
+     ],
+     "MEX": [
+      0.343,
+      6
+     ],
+     "ESP": [
+      -0.391,
+      11
+     ],
+     "ARG": [
+      -0.179,
+      6
+     ],
+     "KOR": [
+      0.185,
+      7
+     ],
+     "ENG": [
+      -0.408,
+      12
+     ],
+     "TUR": [
+      0.037,
+      12
+     ],
+     "POR": [
+      -0.507,
+      10
+     ],
+     "BIH": [
+      1.0,
+      4
+     ],
+     "MAR": [
+      0.369,
+      3
+     ],
+     "CZE": [
+      0.332,
+      6
+     ],
+     "JPN": [
+      0.024,
+      4
+     ],
+     "IRN": [
+      0.474,
+      2
+     ],
+     "FRA": [
+      -0.223,
+      12
+     ],
+     "NED": [
+      0.336,
+      3
+     ],
+     "EGY": [
+      0.526,
+      2
+     ],
+     "AUT": [
+      0.655,
+      7
+     ],
+     "BEL": [
+      -0.241,
+      10
+     ],
+     "SCO": [
+      -0.119,
+      8
+     ],
+     "ECU": [
+      -1.0,
+      1
+     ],
+     "SWE": [
+      0.227,
+      6
+     ],
+     "BRA": [
+      -0.682,
+      6
+     ],
+     "NOR": [
+      0.314,
+      5
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      1.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      1
+     ],
+     "TUN": [
+      -0.474,
+      2
+     ],
+     "KSA": [
+      1.0,
+      1
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "COL": [
+      1.0,
+      1
+     ],
+     "PAN": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "BEL",
+   "name": "Belgium",
+   "flag": "🇧🇪",
+   "fifaRank": 17,
+   "eloRating": 1944,
+   "group": "G",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "D"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 2,
+     "allTimeWinPct": 0.565,
+     "knockoutWinPct": 0.539
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.943,
+     "squadDepthScore": 0.708,
+     "tacticalCohesion": 0.713
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.508,
+     "avgPossession": 56.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "FRA": [
+      -0.545,
+      78
+     ],
+     "NED": [
+      -0.1,
+      129
+     ],
+     "SWE": [
+      0.446,
+      17
+     ],
+     "GER": [
+      -0.693,
+      26
+     ],
+     "SUI": [
+      0.46,
+      30
+     ],
+     "CAN": [
+      1.0,
+      3
+     ],
+     "USA": [
+      0.813,
+      8
+     ],
+     "ESP": [
+      -0.843,
+      22
+     ],
+     "ENG": [
+      -0.012,
+      27
+     ],
+     "AUT": [
+      0.16,
+      16
+     ],
+     "ARG": [
+      -0.644,
+      5
+     ],
+     "POR": [
+      -0.109,
+      19
+     ],
+     "PAR": [
+      0.07,
+      3
+     ],
+     "SCO": [
+      0.712,
+      20
+     ],
+     "TUR": [
+      -0.047,
+      11
+     ],
+     "BRA": [
+      -0.191,
+      5
+     ],
+     "MEX": [
+      -0.1,
+      8
+     ],
+     "NOR": [
+      0.659,
+      9
+     ],
+     "URU": [
+      1.0,
+      2
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "KOR": [
+      0.764,
+      4
+     ],
+     "TUN": [
+      0.502,
+      5
+     ],
+     "MAR": [
+      -0.105,
+      4
+     ],
+     "KSA": [
+      0.402,
+      3
+     ],
+     "COL": [
+      -0.053,
+      2
+     ],
+     "CZE": [
+      0.182,
+      9
+     ],
+     "EGY": [
+      -0.36,
+      5
+     ],
+     "JPN": [
+      0.077,
+      6
+     ],
+     "CRO": [
+      0.241,
+      10
+     ],
+     "ALG": [
+      0.701,
+      3
+     ],
+     "BIH": [
+      0.248,
+      8
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "CIV": [
+      0.0,
+      2
+     ],
+     "AUS": [
+      1.0,
+      1
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "IRN": [
+      0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "URU",
+   "name": "Uruguay",
+   "flag": "🇺🇾",
+   "fifaRank": 18,
+   "eloRating": 1938,
+   "group": "H",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "D"
+     ],
+     "last10GoalsFor": 3,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 2,
+     "wcFinals": 2,
+     "wcSemis": 5,
+     "allTimeWinPct": 0.561,
+     "knockoutWinPct": 0.519
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.964,
+     "squadDepthScore": 0.692,
+     "tacticalCohesion": 0.633
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.677,
+     "avgPossession": 51.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ARG": [
+      -0.432,
+      183
+     ],
+     "BRA": [
+      -0.386,
+      79
+     ],
+     "PAR": [
+      0.255,
+      79
+     ],
+     "USA": [
+      -0.044,
+      9
+     ],
+     "FRA": [
+      -0.115,
+      10
+     ],
+     "NED": [
+      0.091,
+      6
+     ],
+     "SUI": [
+      0.764,
+      4
+     ],
+     "GER": [
+      -0.809,
+      11
+     ],
+     "ECU": [
+      -0.03,
+      50
+     ],
+     "COL": [
+      0.173,
+      47
+     ],
+     "ESP": [
+      -0.59,
+      10
+     ],
+     "SWE": [
+      -0.402,
+      3
+     ],
+     "MEX": [
+      0.306,
+      24
+     ],
+     "PAN": [
+      1.0,
+      4
+     ],
+     "ENG": [
+      0.072,
+      12
+     ],
+     "SCO": [
+      0.186,
+      4
+     ],
+     "AUT": [
+      -0.267,
+      4
+     ],
+     "POR": [
+      -0.241,
+      4
+     ],
+     "NOR": [
+      0.474,
+      2
+     ],
+     "HAI": [
+      0.332,
+      3
+     ],
+     "BEL": [
+      -1.0,
+      2
+     ],
+     "KOR": [
+      0.554,
+      10
+     ],
+     "JPN": [
+      0.182,
+      9
+     ],
+     "CAN": [
+      0.631,
+      3
+     ],
+     "AUS": [
+      0.177,
+      7
+     ],
+     "NZL": [
+      0.474,
+      2
+     ],
+     "CZE": [
+      0.336,
+      3
+     ],
+     "RSA": [
+      0.668,
+      3
+     ],
+     "KSA": [
+      0.05,
+      4
+     ],
+     "SEN": [
+      -0.0,
+      1
+     ],
+     "IRN": [
+      -0.526,
+      2
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "TUN": [
+      -0.0,
+      1
+     ],
+     "EGY": [
+      1.0,
+      2
+     ],
+     "TUR": [
+      1.0,
+      1
+     ],
+     "ALG": [
+      -0.474,
+      2
+     ],
+     "GHA": [
+      0.526,
+      2
+     ],
+     "JOR": [
+      0.474,
+      2
+     ],
+     "MAR": [
+      1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      2
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ],
+     "CPV": [
+      -0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "TUR",
+   "name": "Turkey",
+   "flag": "🇹🇷",
+   "fifaRank": 19,
+   "eloRating": 1926,
+   "group": "D",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 0,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 1,
+     "allTimeWinPct": 0.553,
+     "knockoutWinPct": 0.596
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.912,
+     "squadDepthScore": 0.677,
+     "tacticalCohesion": 0.636
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.648,
+     "avgPossession": 54.7,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "EGY": [
+      0.053,
+      4
+     ],
+     "IRN": [
+      0.557,
+      12
+     ],
+     "AUT": [
+      0.399,
+      18
+     ],
+     "SWE": [
+      0.19,
+      12
+     ],
+     "GER": [
+      -0.145,
+      22
+     ],
+     "SUI": [
+      0.148,
+      16
+     ],
+     "ESP": [
+      -0.497,
+      12
+     ],
+     "KOR": [
+      0.338,
+      7
+     ],
+     "POR": [
+      -0.632,
+      10
+     ],
+     "BRA": [
+      -0.635,
+      6
+     ],
+     "BEL": [
+      0.047,
+      11
+     ],
+     "NED": [
+      -0.301,
+      15
+     ],
+     "SCO": [
+      1.0,
+      2
+     ],
+     "NOR": [
+      0.306,
+      10
+     ],
+     "TUN": [
+      0.16,
+      5
+     ],
+     "KSA": [
+      1.0,
+      3
+     ],
+     "ALG": [
+      -0.336,
+      3
+     ],
+     "IRQ": [
+      -0.0,
+      1
+     ],
+     "ENG": [
+      -0.796,
+      11
+     ],
+     "USA": [
+      0.217,
+      6
+     ],
+     "CZE": [
+      0.432,
+      12
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "CRO": [
+      -0.037,
+      12
+     ],
+     "FRA": [
+      -0.402,
+      6
+     ],
+     "JPN": [
+      -0.336,
+      3
+     ],
+     "BIH": [
+      0.062,
+      6
+     ],
+     "ECU": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      -1.0,
+      1
+     ],
+     "SEN": [
+      1.0,
+      1
+     ],
+     "COL": [
+      1.0,
+      1
+     ],
+     "AUS": [
+      0.262,
+      3
+     ],
+     "GHA": [
+      -0.0,
+      2
+     ],
+     "URU": [
+      -1.0,
+      1
+     ],
+     "CIV": [
+      -0.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ],
+     "MEX": [
+      -1.0,
+      1
+     ],
+     "PAR": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "AUS",
+   "name": "Australia",
+   "flag": "🇦🇺",
+   "fifaRank": 20,
+   "eloRating": 1915,
+   "group": "D",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.546,
+     "knockoutWinPct": 0.549
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.883,
+     "squadDepthScore": 0.737,
+     "tacticalCohesion": 0.669
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.412,
+     "avgPossession": 51.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "NZL": [
+      0.881,
+      67
+     ],
+     "CAN": [
+      0.381,
+      10
+     ],
+     "RSA": [
+      -0.016,
+      21
+     ],
+     "KOR": [
+      -0.325,
+      29
+     ],
+     "JPN": [
+      -0.339,
+      28
+     ],
+     "IRN": [
+      -0.206,
+      7
+     ],
+     "IRQ": [
+      0.459,
+      11
+     ],
+     "GER": [
+      -0.462,
+      6
+     ],
+     "ENG": [
+      -0.507,
+      8
+     ],
+     "MEX": [
+      0.115,
+      6
+     ],
+     "SCO": [
+      -0.382,
+      5
+     ],
+     "MAR": [
+      1.0,
+      1
+     ],
+     "EGY": [
+      -0.526,
+      2
+     ],
+     "BRA": [
+      -0.64,
+      8
+     ],
+     "KSA": [
+      0.292,
+      12
+     ],
+     "ARG": [
+      -0.773,
+      9
+     ],
+     "SWE": [
+      0.156,
+      5
+     ],
+     "USA": [
+      -0.502,
+      5
+     ],
+     "URU": [
+      -0.177,
+      7
+     ],
+     "CRO": [
+      -0.12,
+      6
+     ],
+     "FRA": [
+      -0.564,
+      6
+     ],
+     "COL": [
+      -0.738,
+      4
+     ],
+     "GHA": [
+      0.402,
+      7
+     ],
+     "NOR": [
+      -0.07,
+      3
+     ],
+     "CZE": [
+      0.053,
+      2
+     ],
+     "PAR": [
+      0.348,
+      6
+     ],
+     "TUR": [
+      -0.262,
+      3
+     ],
+     "TUN": [
+      0.053,
+      2
+     ],
+     "NED": [
+      -0.055,
+      4
+     ],
+     "QAT": [
+      0.292,
+      5
+     ],
+     "UZB": [
+      0.536,
+      5
+     ],
+     "SUI": [
+      0.0,
+      2
+     ],
+     "JOR": [
+      0.369,
+      8
+     ],
+     "ECU": [
+      -0.336,
+      3
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -1.0,
+      1
+     ],
+     "CUW": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "AUT",
+   "name": "Austria",
+   "flag": "🇦🇹",
+   "fifaRank": 21,
+   "eloRating": 1911,
+   "group": "J",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L"
+     ],
+     "last10GoalsFor": 3,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 3,
+     "allTimeWinPct": 0.543,
+     "knockoutWinPct": 0.497
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.894,
+     "squadDepthScore": 0.731,
+     "tacticalCohesion": 0.66
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.799,
+     "avgPossession": 52.7,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ENG": [
+      -0.421,
+      19
+     ],
+     "GER": [
+      -0.417,
+      41
+     ],
+     "NED": [
+      -0.501,
+      21
+     ],
+     "NOR": [
+      0.144,
+      14
+     ],
+     "SUI": [
+      -0.366,
+      43
+     ],
+     "SWE": [
+      0.446,
+      38
+     ],
+     "EGY": [
+      -0.033,
+      3
+     ],
+     "ESP": [
+      -0.569,
+      16
+     ],
+     "FRA": [
+      -0.593,
+      26
+     ],
+     "BEL": [
+      -0.16,
+      16
+     ],
+     "SCO": [
+      -0.307,
+      23
+     ],
+     "POR": [
+      -0.049,
+      11
+     ],
+     "TUR": [
+      -0.399,
+      18
+     ],
+     "URU": [
+      0.267,
+      4
+     ],
+     "BRA": [
+      -0.727,
+      10
+     ],
+     "TUN": [
+      0.62,
+      5
+     ],
+     "ARG": [
+      -0.668,
+      3
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      -1.0,
+      1
+     ],
+     "USA": [
+      0.336,
+      3
+     ],
+     "CZE": [
+      0.029,
+      5
+     ],
+     "CRO": [
+      -0.655,
+      7
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.146,
+      7
+     ],
+     "CAN": [
+      -1.0,
+      1
+     ],
+     "GHA": [
+      0.526,
+      2
+     ],
+     "PAR": [
+      0.0,
+      1
+     ],
+     "JPN": [
+      0.0,
+      1
+     ],
+     "CIV": [
+      -0.053,
+      2
+     ],
+     "KOR": [
+      1.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "PAR",
+   "name": "Paraguay",
+   "flag": "🇵🇾",
+   "fifaRank": 22,
+   "eloRating": 1905,
+   "group": "D",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "W"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.539,
+     "knockoutWinPct": 0.512
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.882,
+     "squadDepthScore": 0.693,
+     "tacticalCohesion": 0.684
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.623,
+     "avgPossession": 55.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ARG": [
+      -0.081,
+      107
+     ],
+     "URU": [
+      -0.255,
+      79
+     ],
+     "BRA": [
+      -0.434,
+      84
+     ],
+     "USA": [
+      -0.478,
+      10
+     ],
+     "BEL": [
+      -0.07,
+      3
+     ],
+     "ECU": [
+      0.105,
+      42
+     ],
+     "COL": [
+      -0.508,
+      51
+     ],
+     "SWE": [
+      -0.037,
+      3
+     ],
+     "FRA": [
+      -0.582,
+      5
+     ],
+     "SCO": [
+      1.0,
+      1
+     ],
+     "PAN": [
+      0.874,
+      6
+     ],
+     "MEX": [
+      -0.27,
+      21
+     ],
+     "CAN": [
+      -0.0,
+      1
+     ],
+     "KOR": [
+      -0.362,
+      8
+     ],
+     "QAT": [
+      -0.026,
+      4
+     ],
+     "KSA": [
+      -0.0,
+      3
+     ],
+     "IRQ": [
+      1.0,
+      1
+     ],
+     "ENG": [
+      -1.0,
+      3
+     ],
+     "NZL": [
+      0.668,
+      3
+     ],
+     "JPN": [
+      -0.482,
+      12
+     ],
+     "BIH": [
+      1.0,
+      1
+     ],
+     "CZE": [
+      -1.0,
+      1
+     ],
+     "NED": [
+      -0.474,
+      2
+     ],
+     "ESP": [
+      -0.526,
+      4
+     ],
+     "AUS": [
+      -0.348,
+      6
+     ],
+     "RSA": [
+      -0.236,
+      4
+     ],
+     "GER": [
+      -0.474,
+      2
+     ],
+     "IRN": [
+      -0.0,
+      1
+     ],
+     "POR": [
+      0.0,
+      1
+     ],
+     "NOR": [
+      -0.0,
+      1
+     ],
+     "AUT": [
+      -0.0,
+      1
+     ],
+     "CIV": [
+      -0.0,
+      2
+     ],
+     "JOR": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      -0.526,
+      2
+     ],
+     "TUR": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "ALG",
+   "name": "Algeria",
+   "flag": "🇩🇿",
+   "fifaRank": 23,
+   "eloRating": 1899,
+   "group": "J",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "W"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.535,
+     "knockoutWinPct": 0.538
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.881,
+     "squadDepthScore": 0.642,
+     "tacticalCohesion": 0.702
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.583,
+     "avgPossession": 50.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "EGY": [
+      0.052,
+      23
+     ],
+     "TUN": [
+      0.206,
+      38
+     ],
+     "GER": [
+      0.262,
+      3
+     ],
+     "BRA": [
+      -1.0,
+      4
+     ],
+     "CIV": [
+      -0.246,
+      23
+     ],
+     "COD": [
+      0.407,
+      7
+     ],
+     "MAR": [
+      -0.383,
+      26
+     ],
+     "QAT": [
+      0.514,
+      6
+     ],
+     "IRQ": [
+      -0.152,
+      8
+     ],
+     "TUR": [
+      0.336,
+      3
+     ],
+     "GHA": [
+      0.004,
+      11
+     ],
+     "JOR": [
+      0.668,
+      3
+     ],
+     "SWE": [
+      -0.827,
+      6
+     ],
+     "KSA": [
+      0.007,
+      6
+     ],
+     "SEN": [
+      0.49,
+      25
+     ],
+     "AUT": [
+      -1.0,
+      1
+     ],
+     "SUI": [
+      -1.0,
+      2
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "MEX": [
+      -0.474,
+      2
+     ],
+     "KOR": [
+      0.402,
+      3
+     ],
+     "JPN": [
+      -1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "IRN": [
+      0.336,
+      3
+     ],
+     "RSA": [
+      0.06,
+      5
+     ],
+     "CPV": [
+      0.317,
+      6
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -0.701,
+      3
+     ],
+     "ARG": [
+      -1.0,
+      2
+     ],
+     "URU": [
+      0.474,
+      2
+     ],
+     "ENG": [
+      0.0,
+      1
+     ],
+     "USA": [
+      -1.0,
+      1
+     ],
+     "BIH": [
+      -1.0,
+      1
+     ],
+     "POR": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      1.0,
+      1
+     ],
+     "NED": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "IRN",
+   "name": "Iran",
+   "flag": "🇮🇷",
+   "fifaRank": 24,
+   "eloRating": 1895,
+   "group": "G",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "D"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.533,
+     "knockoutWinPct": 0.484
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.803,
+     "squadDepthScore": 0.702,
+     "tacticalCohesion": 0.705
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.618,
+     "avgPossession": 49.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "TUR": [
+      -0.557,
+      12
+     ],
+     "JPN": [
+      -0.063,
+      19
+     ],
+     "KOR": [
+      0.186,
+      33
+     ],
+     "IRQ": [
+      0.412,
+      26
+     ],
+     "AUS": [
+      0.206,
+      7
+     ],
+     "POR": [
+      -0.631,
+      3
+     ],
+     "ECU": [
+      -0.369,
+      3
+     ],
+     "NZL": [
+      0.332,
+      3
+     ],
+     "KSA": [
+      -0.121,
+      14
+     ],
+     "ARG": [
+      -0.526,
+      2
+     ],
+     "MAR": [
+      0.369,
+      3
+     ],
+     "COD": [
+      -1.0,
+      1
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ],
+     "GHA": [
+      1.0,
+      2
+     ],
+     "NED": [
+      -1.0,
+      1
+     ],
+     "SCO": [
+      0.0,
+      1
+     ],
+     "QAT": [
+      0.319,
+      25
+     ],
+     "ALG": [
+      -0.336,
+      3
+     ],
+     "CAN": [
+      0.262,
+      3
+     ],
+     "CRO": [
+      -0.474,
+      2
+     ],
+     "USA": [
+      -0.07,
+      3
+     ],
+     "GER": [
+      -1.0,
+      2
+     ],
+     "UZB": [
+      0.371,
+      17
+     ],
+     "MEX": [
+      -1.0,
+      3
+     ],
+     "JOR": [
+      0.127,
+      13
+     ],
+     "EGY": [
+      -0.0,
+      1
+     ],
+     "AUT": [
+      -1.0,
+      1
+     ],
+     "BIH": [
+      0.553,
+      7
+     ],
+     "PAR": [
+      0.0,
+      1
+     ],
+     "URU": [
+      0.526,
+      2
+     ],
+     "PAN": [
+      1.0,
+      2
+     ],
+     "SEN": [
+      0.0,
+      2
+     ],
+     "BRA": [
+      -1.0,
+      1
+     ],
+     "TUN": [
+      -0.701,
+      3
+     ],
+     "SWE": [
+      -1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "ENG": [
+      -1.0,
+      1
+     ],
+     "CPV": [
+      -0.0,
+      1
+     ],
+     "BEL": [
+      -0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "USA",
+   "name": "USA",
+   "flag": "🇺🇸",
+   "fifaRank": 25,
+   "eloRating": 1881,
+   "group": "D",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "W"
+     ],
+     "last10GoalsFor": 6,
+     "last10GoalsAgainst": 1
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 1,
+     "allTimeWinPct": 0.523,
+     "knockoutWinPct": 0.563
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.993,
+     "squadDepthScore": 0.673,
+     "tacticalCohesion": 0.631
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.532,
+     "avgPossession": 49.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "CAN": [
+      -0.192,
+      42
+     ],
+     "SWE": [
+      0.212,
+      7
+     ],
+     "NOR": [
+      0.088,
+      5
+     ],
+     "BEL": [
+      -0.813,
+      8
+     ],
+     "URU": [
+      0.044,
+      9
+     ],
+     "ARG": [
+      -0.393,
+      11
+     ],
+     "PAR": [
+      0.478,
+      10
+     ],
+     "BRA": [
+      -0.846,
+      20
+     ],
+     "MEX": [
+      0.106,
+      76
+     ],
+     "SCO": [
+      -0.132,
+      10
+     ],
+     "ESP": [
+      -0.56,
+      5
+     ],
+     "ENG": [
+      -0.559,
+      12
+     ],
+     "HAI": [
+      0.588,
+      19
+     ],
+     "KOR": [
+      -0.122,
+      10
+     ],
+     "COL": [
+      -0.648,
+      21
+     ],
+     "SUI": [
+      -0.394,
+      10
+     ],
+     "POR": [
+      -0.12,
+      8
+     ],
+     "FRA": [
+      -0.709,
+      4
+     ],
+     "CUW": [
+      0.701,
+      3
+     ],
+     "ECU": [
+      0.202,
+      14
+     ],
+     "EGY": [
+      0.053,
+      2
+     ],
+     "AUT": [
+      -0.336,
+      3
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "TUR": [
+      -0.217,
+      6
+     ],
+     "MAR": [
+      -0.418,
+      4
+     ],
+     "AUS": [
+      0.502,
+      5
+     ],
+     "KSA": [
+      0.259,
+      7
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "JPN": [
+      0.053,
+      4
+     ],
+     "GER": [
+      -0.299,
+      13
+     ],
+     "PAN": [
+      0.151,
+      29
+     ],
+     "NED": [
+      -0.616,
+      6
+     ],
+     "IRN": [
+      0.07,
+      3
+     ],
+     "NZL": [
+      0.631,
+      3
+     ],
+     "TUN": [
+      -0.0,
+      1
+     ],
+     "RSA": [
+      1.0,
+      3
+     ],
+     "CZE": [
+      -0.262,
+      3
+     ],
+     "GHA": [
+      0.324,
+      5
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      0.668,
+      3
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ],
+     "SEN": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "SEN",
+   "name": "Senegal",
+   "flag": "🇸🇳",
+   "fifaRank": 26,
+   "eloRating": 1868,
+   "group": "I",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 3,
+     "last10GoalsAgainst": 6
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.515,
+     "knockoutWinPct": 0.546
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.978,
+     "squadDepthScore": 0.7,
+     "tacticalCohesion": 0.663
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.352,
+     "avgPossession": 54.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "CIV": [
+      -0.17,
+      28
+     ],
+     "FRA": [
+      0.262,
+      3
+     ],
+     "TUN": [
+      -0.13,
+      21
+     ],
+     "GHA": [
+      0.23,
+      13
+     ],
+     "COD": [
+      0.581,
+      14
+     ],
+     "MAR": [
+      -0.449,
+      32
+     ],
+     "ALG": [
+      -0.49,
+      25
+     ],
+     "CPV": [
+      0.787,
+      20
+     ],
+     "KOR": [
+      0.363,
+      5
+     ],
+     "EGY": [
+      0.197,
+      16
+     ],
+     "JPN": [
+      0.497,
+      4
+     ],
+     "KSA": [
+      -0.631,
+      3
+     ],
+     "ECU": [
+      1.0,
+      3
+     ],
+     "URU": [
+      0.0,
+      1
+     ],
+     "SWE": [
+      1.0,
+      1
+     ],
+     "TUR": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      0.29,
+      10
+     ],
+     "NOR": [
+      -0.053,
+      2
+     ],
+     "IRN": [
+      -0.0,
+      2
+     ],
+     "MEX": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -0.668,
+      3
+     ],
+     "UZB": [
+      0.0,
+      1
+     ],
+     "BIH": [
+      -0.0,
+      1
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "BRA": [
+      -0.037,
+      3
+     ],
+     "NED": [
+      -1.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "ENG": [
+      0.053,
+      2
+     ],
+     "USA": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CAN",
+   "name": "Canada",
+   "flag": "🇨🇦",
+   "fifaRank": 27,
+   "eloRating": 1857,
+   "group": "B",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W",
+      "L"
+     ],
+     "last10GoalsFor": 8,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.507,
+     "knockoutWinPct": 0.501
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.908,
+     "squadDepthScore": 0.624,
+     "tacticalCohesion": 0.662
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.604,
+     "avgPossession": 51.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "USA": [
+      0.192,
+      42
+     ],
+     "SCO": [
+      -0.808,
+      7
+     ],
+     "BEL": [
+      -1.0,
+      3
+     ],
+     "AUS": [
+      -0.381,
+      10
+     ],
+     "NZL": [
+      0.647,
+      7
+     ],
+     "MEX": [
+      -0.442,
+      35
+     ],
+     "HAI": [
+      0.776,
+      14
+     ],
+     "ALG": [
+      -1.0,
+      1
+     ],
+     "TUN": [
+      -0.474,
+      2
+     ],
+     "MAR": [
+      -0.764,
+      4
+     ],
+     "EGY": [
+      -1.0,
+      2
+     ],
+     "GHA": [
+      1.0,
+      1
+     ],
+     "IRQ": [
+      -1.0,
+      1
+     ],
+     "PAR": [
+      0.0,
+      1
+     ],
+     "URU": [
+      -0.631,
+      3
+     ],
+     "ENG": [
+      -1.0,
+      1
+     ],
+     "FRA": [
+      -0.474,
+      2
+     ],
+     "COL": [
+      0.033,
+      3
+     ],
+     "KOR": [
+      -0.007,
+      5
+     ],
+     "BRA": [
+      -0.526,
+      4
+     ],
+     "GER": [
+      -1.0,
+      2
+     ],
+     "ESP": [
+      -1.0,
+      2
+     ],
+     "NED": [
+      -1.0,
+      2
+     ],
+     "POR": [
+      -0.526,
+      2
+     ],
+     "TUR": [
+      -1.0,
+      2
+     ],
+     "PAN": [
+      0.271,
+      14
+     ],
+     "IRN": [
+      -0.262,
+      3
+     ],
+     "ECU": [
+      -0.448,
+      4
+     ],
+     "KSA": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -0.477,
+      4
+     ],
+     "SUI": [
+      -0.053,
+      2
+     ],
+     "CZE": [
+      -1.0,
+      2
+     ],
+     "AUT": [
+      1.0,
+      1
+     ],
+     "RSA": [
+      -1.0,
+      1
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "UZB": [
+      1.0,
+      2
+     ],
+     "CUW": [
+      0.709,
+      4
+     ],
+     "QAT": [
+      1.0,
+      2
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "CIV": [
+      0.0,
+      1
+     ],
+     "BIH": [
+      -0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CIV",
+   "name": "Ivory Coast",
+   "flag": "🇨🇮",
+   "fifaRank": 28,
+   "eloRating": 1856,
+   "group": "E",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L",
+      "W"
+     ],
+     "last10GoalsFor": 4,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.507,
+     "knockoutWinPct": 0.555
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.817,
+     "squadDepthScore": 0.641,
+     "tacticalCohesion": 0.606
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.694,
+     "avgPossession": 53.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SEN": [
+      0.17,
+      28
+     ],
+     "TUN": [
+      0.265,
+      20
+     ],
+     "COD": [
+      0.314,
+      22
+     ],
+     "ALG": [
+      0.246,
+      23
+     ],
+     "GHA": [
+      -0.028,
+      39
+     ],
+     "MAR": [
+      -0.158,
+      22
+     ],
+     "EGY": [
+      -0.083,
+      25
+     ],
+     "SUI": [
+      0.474,
+      2
+     ],
+     "ARG": [
+      -1.0,
+      2
+     ],
+     "USA": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -0.165,
+      5
+     ],
+     "RSA": [
+      -0.099,
+      8
+     ],
+     "FRA": [
+      -0.183,
+      4
+     ],
+     "JOR": [
+      1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "NED": [
+      -1.0,
+      2
+     ],
+     "SWE": [
+      0.336,
+      3
+     ],
+     "AUT": [
+      0.053,
+      2
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "PAR": [
+      0.0,
+      2
+     ],
+     "TUR": [
+      0.0,
+      1
+     ],
+     "GER": [
+      -0.526,
+      2
+     ],
+     "KOR": [
+      0.053,
+      2
+     ],
+     "POR": [
+      0.0,
+      1
+     ],
+     "BRA": [
+      -1.0,
+      1
+     ],
+     "MEX": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -0.0,
+      2
+     ],
+     "BIH": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "ENG": [
+      -1.0,
+      1
+     ],
+     "URU": [
+      1.0,
+      1
+     ],
+     "NZL": [
+      -1.0,
+      1
+     ],
+     "CAN": [
+      -0.0,
+      1
+     ],
+     "KSA": [
+      -1.0,
+      1
+     ],
+     "SCO": [
+      1.0,
+      1
+     ],
+     "ECU": [
+      1.0,
+      1
+     ],
+     "CUW": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "EGY",
+   "name": "Egypt",
+   "flag": "🇪🇬",
+   "fifaRank": 29,
+   "eloRating": 1844,
+   "group": "G",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "W"
+     ],
+     "last10GoalsFor": 4,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.499,
+     "knockoutWinPct": 0.501
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.785,
+     "squadDepthScore": 0.687,
+     "tacticalCohesion": 0.684
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.432,
+     "avgPossession": 50.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SWE": [
+      0.105,
+      4
+     ],
+     "AUT": [
+      0.033,
+      3
+     ],
+     "TUR": [
+      -0.053,
+      4
+     ],
+     "POR": [
+      -0.576,
+      4
+     ],
+     "ARG": [
+      -1.0,
+      2
+     ],
+     "NED": [
+      0.299,
+      3
+     ],
+     "NOR": [
+      -0.468,
+      6
+     ],
+     "GER": [
+      1.0,
+      1
+     ],
+     "BRA": [
+      -1.0,
+      7
+     ],
+     "GHA": [
+      0.238,
+      24
+     ],
+     "ALG": [
+      -0.052,
+      23
+     ],
+     "KSA": [
+      0.324,
+      8
+     ],
+     "COD": [
+      0.583,
+      14
+     ],
+     "CIV": [
+      0.083,
+      25
+     ],
+     "MAR": [
+      -0.066,
+      22
+     ],
+     "IRQ": [
+      0.108,
+      9
+     ],
+     "TUN": [
+      -0.49,
+      31
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "MEX": [
+      -0.285,
+      4
+     ],
+     "ENG": [
+      -1.0,
+      3
+     ],
+     "SEN": [
+      -0.197,
+      16
+     ],
+     "USA": [
+      -0.053,
+      2
+     ],
+     "KOR": [
+      -0.347,
+      17
+     ],
+     "AUS": [
+      0.526,
+      2
+     ],
+     "JOR": [
+      -0.062,
+      5
+     ],
+     "SUI": [
+      -1.0,
+      1
+     ],
+     "QAT": [
+      0.149,
+      8
+     ],
+     "SCO": [
+      1.0,
+      1
+     ],
+     "COL": [
+      -0.0,
+      2
+     ],
+     "RSA": [
+      -0.253,
+      13
+     ],
+     "JPN": [
+      -1.0,
+      2
+     ],
+     "BEL": [
+      0.36,
+      5
+     ],
+     "CRO": [
+      -0.526,
+      2
+     ],
+     "NZL": [
+      0.788,
+      4
+     ],
+     "IRN": [
+      0.0,
+      1
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ],
+     "ESP": [
+      -0.474,
+      2
+     ],
+     "URU": [
+      -1.0,
+      2
+     ],
+     "BIH": [
+      1.0,
+      1
+     ],
+     "CPV": [
+      0.236,
+      4
+     ],
+     "UZB": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "KOR",
+   "name": "South Korea",
+   "flag": "🇰🇷",
+   "fifaRank": 30,
+   "eloRating": 1842,
+   "group": "A",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 1,
+     "allTimeWinPct": 0.497,
+     "knockoutWinPct": 0.451
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.792,
+     "squadDepthScore": 0.608,
+     "tacticalCohesion": 0.68
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.464,
+     "avgPossession": 50.1,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "JPN": [
+      -0.168,
+      73
+     ],
+     "TUR": [
+      -0.338,
+      7
+     ],
+     "USA": [
+      0.122,
+      10
+     ],
+     "IRN": [
+      -0.186,
+      33
+     ],
+     "AUS": [
+      0.325,
+      29
+     ],
+     "IRQ": [
+      0.743,
+      24
+     ],
+     "NZL": [
+      0.601,
+      7
+     ],
+     "KSA": [
+      0.142,
+      19
+     ],
+     "MEX": [
+      -0.386,
+      15
+     ],
+     "QAT": [
+      0.261,
+      10
+     ],
+     "MAR": [
+      -0.291,
+      4
+     ],
+     "URU": [
+      -0.554,
+      10
+     ],
+     "SEN": [
+      -0.363,
+      5
+     ],
+     "GHA": [
+      -0.038,
+      8
+     ],
+     "ALG": [
+      -0.402,
+      3
+     ],
+     "PAR": [
+      0.362,
+      8
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "EGY": [
+      0.347,
+      17
+     ],
+     "NOR": [
+      -0.238,
+      4
+     ],
+     "BEL": [
+      -0.764,
+      4
+     ],
+     "ESP": [
+      -0.704,
+      6
+     ],
+     "CAN": [
+      0.007,
+      5
+     ],
+     "COL": [
+      0.369,
+      8
+     ],
+     "ECU": [
+      0.053,
+      2
+     ],
+     "GER": [
+      0.105,
+      4
+     ],
+     "UZB": [
+      0.668,
+      16
+     ],
+     "BRA": [
+      -0.826,
+      9
+     ],
+     "CRO": [
+      -0.185,
+      7
+     ],
+     "SWE": [
+      -0.503,
+      4
+     ],
+     "CZE": [
+      0.317,
+      4
+     ],
+     "NED": [
+      -1.0,
+      2
+     ],
+     "FRA": [
+      -0.631,
+      3
+     ],
+     "TUN": [
+      0.037,
+      3
+     ],
+     "SCO": [
+      1.0,
+      1
+     ],
+     "ENG": [
+      -0.0,
+      1
+     ],
+     "POR": [
+      1.0,
+      2
+     ],
+     "JOR": [
+      0.305,
+      9
+     ],
+     "BIH": [
+      -0.053,
+      2
+     ],
+     "SUI": [
+      0.053,
+      2
+     ],
+     "CIV": [
+      -0.053,
+      2
+     ],
+     "HAI": [
+      1.0,
+      1
+     ],
+     "PAN": [
+      0.0,
+      1
+     ],
+     "AUT": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "SCO",
+   "name": "Scotland",
+   "flag": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
+   "fifaRank": 31,
+   "eloRating": 1824,
+   "group": "C",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 4
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.486,
+     "knockoutWinPct": 0.507
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.927,
+     "squadDepthScore": 0.66,
+     "tacticalCohesion": 0.685
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.368,
+     "avgPossession": 52.8,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ENG": [
+      -0.574,
+      118
+     ],
+     "CAN": [
+      0.808,
+      7
+     ],
+     "NOR": [
+      0.16,
+      20
+     ],
+     "GER": [
+      -0.718,
+      18
+     ],
+     "NED": [
+      -0.559,
+      21
+     ],
+     "FRA": [
+      -0.395,
+      17
+     ],
+     "AUT": [
+      0.307,
+      23
+     ],
+     "SUI": [
+      -0.04,
+      17
+     ],
+     "USA": [
+      0.132,
+      10
+     ],
+     "BEL": [
+      -0.712,
+      20
+     ],
+     "POR": [
+      -0.55,
+      17
+     ],
+     "SWE": [
+      -0.093,
+      12
+     ],
+     "URU": [
+      -0.186,
+      4
+     ],
+     "ESP": [
+      -0.326,
+      15
+     ],
+     "PAR": [
+      -1.0,
+      1
+     ],
+     "TUR": [
+      -1.0,
+      2
+     ],
+     "BRA": [
+      -0.927,
+      11
+     ],
+     "COD": [
+      1.0,
+      1
+     ],
+     "ARG": [
+      -0.265,
+      4
+     ],
+     "IRN": [
+      -0.0,
+      1
+     ],
+     "NZL": [
+      0.474,
+      2
+     ],
+     "AUS": [
+      0.382,
+      5
+     ],
+     "KSA": [
+      -0.0,
+      1
+     ],
+     "COL": [
+      -0.526,
+      2
+     ],
+     "EGY": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -0.552,
+      4
+     ],
+     "ECU": [
+      1.0,
+      1
+     ],
+     "MAR": [
+      -1.0,
+      2
+     ],
+     "CZE": [
+      0.013,
+      10
+     ],
+     "BIH": [
+      1.0,
+      2
+     ],
+     "CRO": [
+      0.119,
+      8
+     ],
+     "KOR": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      0.053,
+      2
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "MEX": [
+      -1.0,
+      1
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ],
+     "CUW": [
+      1.0,
+      1
+     ],
+     "HAI": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "SWE",
+   "name": "Sweden",
+   "flag": "🇸🇪",
+   "fifaRank": 32,
+   "eloRating": 1810,
+   "group": "F",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "L",
+      "D"
+     ],
+     "last10GoalsFor": 7,
+     "last10GoalsAgainst": 7
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 1,
+     "wcSemis": 4,
+     "allTimeWinPct": 0.476,
+     "knockoutWinPct": 0.473
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.826,
+     "squadDepthScore": 0.597,
+     "tacticalCohesion": 0.625
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.584,
+     "avgPossession": 47.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "NOR": [
+      -0.468,
+      110
+     ],
+     "NED": [
+      -0.365,
+      26
+     ],
+     "BEL": [
+      -0.446,
+      17
+     ],
+     "GER": [
+      -0.638,
+      37
+     ],
+     "USA": [
+      -0.212,
+      7
+     ],
+     "SUI": [
+      -0.288,
+      31
+     ],
+     "ESP": [
+      -0.274,
+      18
+     ],
+     "AUT": [
+      -0.446,
+      38
+     ],
+     "ENG": [
+      -0.101,
+      25
+     ],
+     "EGY": [
+      -0.105,
+      4
+     ],
+     "ARG": [
+      -0.07,
+      3
+     ],
+     "FRA": [
+      -0.43,
+      23
+     ],
+     "BRA": [
+      -0.478,
+      15
+     ],
+     "PAR": [
+      0.037,
+      3
+     ],
+     "URU": [
+      0.402,
+      3
+     ],
+     "TUR": [
+      -0.19,
+      12
+     ],
+     "SCO": [
+      0.093,
+      12
+     ],
+     "POR": [
+      -0.555,
+      21
+     ],
+     "MEX": [
+      0.367,
+      11
+     ],
+     "ALG": [
+      0.827,
+      6
+     ],
+     "TUN": [
+      0.4,
+      5
+     ],
+     "KSA": [
+      0.631,
+      3
+     ],
+     "COL": [
+      -0.0,
+      2
+     ],
+     "AUS": [
+      -0.156,
+      5
+     ],
+     "JPN": [
+      0.198,
+      5
+     ],
+     "KOR": [
+      0.503,
+      4
+     ],
+     "RSA": [
+      0.053,
+      2
+     ],
+     "QAT": [
+      0.526,
+      2
+     ],
+     "SEN": [
+      -1.0,
+      1
+     ],
+     "CZE": [
+      0.526,
+      4
+     ],
+     "CRO": [
+      -0.227,
+      6
+     ],
+     "JOR": [
+      -0.0,
+      1
+     ],
+     "CIV": [
+      -0.336,
+      3
+     ],
+     "ECU": [
+      -0.474,
+      2
+     ],
+     "BIH": [
+      1.0,
+      1
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "UZB": [
+      1.0,
+      1
+     ],
+     "NZL": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "PAN",
+   "name": "Panama",
+   "flag": "🇵🇦",
+   "fifaRank": 33,
+   "eloRating": 1790,
+   "group": "L",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 0,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.463,
+     "knockoutWinPct": 0.416
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.83,
+     "squadDepthScore": 0.616,
+     "tacticalCohesion": 0.6
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.413,
+     "avgPossession": 48.8,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "COL": [
+      -0.469,
+      7
+     ],
+     "MEX": [
+      -0.918,
+      28
+     ],
+     "HAI": [
+      0.245,
+      19
+     ],
+     "CUW": [
+      0.079,
+      9
+     ],
+     "URU": [
+      -1.0,
+      4
+     ],
+     "BRA": [
+      -0.78,
+      5
+     ],
+     "PAR": [
+      -0.874,
+      6
+     ],
+     "USA": [
+      -0.151,
+      29
+     ],
+     "CAN": [
+      -0.271,
+      14
+     ],
+     "ECU": [
+      -0.732,
+      7
+     ],
+     "IRN": [
+      -1.0,
+      2
+     ],
+     "RSA": [
+      0.369,
+      3
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "POR": [
+      -1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "SUI": [
+      -1.0,
+      1
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -1.0,
+      1
+     ],
+     "ENG": [
+      -1.0,
+      1
+     ],
+     "TUN": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -1.0,
+      2
+     ],
+     "KOR": [
+      -0.0,
+      1
+     ],
+     "QAT": [
+      0.037,
+      3
+     ],
+     "KSA": [
+      -0.0,
+      1
+     ],
+     "BIH": [
+      -0.0,
+      1
+     ],
+     "GHA": [
+      -1.0,
+      1
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "UZB",
+   "name": "Uzbekistan",
+   "flag": "🇺🇿",
+   "fifaRank": 34,
+   "eloRating": 1782,
+   "group": "K",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 8
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.458,
+     "knockoutWinPct": 0.491
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.981,
+     "squadDepthScore": 0.637,
+     "tacticalCohesion": 0.541
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.759,
+     "avgPossession": 48.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "KSA": [
+      -0.385,
+      12
+     ],
+     "KOR": [
+      -0.668,
+      16
+     ],
+     "IRQ": [
+      0.132,
+      12
+     ],
+     "JPN": [
+      -0.475,
+      11
+     ],
+     "IRN": [
+      -0.371,
+      17
+     ],
+     "QAT": [
+      0.436,
+      17
+     ],
+     "JOR": [
+      0.283,
+      15
+     ],
+     "BIH": [
+      0.474,
+      2
+     ],
+     "AUS": [
+      -0.536,
+      5
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "CAN": [
+      -1.0,
+      2
+     ],
+     "SEN": [
+      -0.0,
+      1
+     ],
+     "MAR": [
+      -1.0,
+      1
+     ],
+     "URU": [
+      -1.0,
+      2
+     ],
+     "TUR": [
+      -1.0,
+      1
+     ],
+     "SWE": [
+      -1.0,
+      1
+     ],
+     "USA": [
+      -1.0,
+      1
+     ],
+     "MEX": [
+      -0.0,
+      1
+     ],
+     "EGY": [
+      1.0,
+      1
+     ],
+     "NED": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "POR": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "COD",
+   "name": "DR Congo",
+   "flag": "🇨🇩",
+   "fifaRank": 35,
+   "eloRating": 1766,
+   "group": "K",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.447,
+     "knockoutWinPct": 0.429
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.829,
+     "squadDepthScore": 0.58,
+     "tacticalCohesion": 0.639
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.403,
+     "avgPossession": 50.7,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "CIV": [
+      -0.314,
+      22
+     ],
+     "TUN": [
+      -0.59,
+      14
+     ],
+     "GHA": [
+      -0.222,
+      21
+     ],
+     "ALG": [
+      -0.407,
+      7
+     ],
+     "SEN": [
+      -0.581,
+      14
+     ],
+     "EGY": [
+      -0.583,
+      14
+     ],
+     "MAR": [
+      -0.21,
+      16
+     ],
+     "SCO": [
+      -1.0,
+      1
+     ],
+     "BRA": [
+      -1.0,
+      1
+     ],
+     "IRN": [
+      1.0,
+      1
+     ],
+     "RSA": [
+      -0.426,
+      8
+     ],
+     "CPV": [
+      0.332,
+      3
+     ],
+     "MEX": [
+      -1.0,
+      1
+     ],
+     "QAT": [
+      0.0,
+      1
+     ],
+     "KSA": [
+      -1.0,
+      1
+     ],
+     "IRQ": [
+      -1.0,
+      2
+     ],
+     "NZL": [
+      0.0,
+      1
+     ],
+     "POR": [
+      0.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CZE",
+   "name": "Czech Republic",
+   "flag": "🇨🇿",
+   "fifaRank": 36,
+   "eloRating": 1754,
+   "group": "A",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "D",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 6
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 2,
+     "wcSemis": 3,
+     "allTimeWinPct": 0.439,
+     "knockoutWinPct": 0.403
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.802,
+     "squadDepthScore": 0.608,
+     "tacticalCohesion": 0.588
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.538,
+     "avgPossession": 47.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "TUR": [
+      -0.432,
+      12
+     ],
+     "SUI": [
+      0.321,
+      6
+     ],
+     "FRA": [
+      0.029,
+      4
+     ],
+     "NED": [
+      0.31,
+      12
+     ],
+     "NOR": [
+      0.45,
+      9
+     ],
+     "AUT": [
+      -0.029,
+      5
+     ],
+     "GER": [
+      -0.569,
+      9
+     ],
+     "POR": [
+      -0.748,
+      6
+     ],
+     "ESP": [
+      -0.726,
+      7
+     ],
+     "CRO": [
+      -0.332,
+      6
+     ],
+     "RSA": [
+      0.0,
+      2
+     ],
+     "URU": [
+      -0.336,
+      3
+     ],
+     "BRA": [
+      -1.0,
+      2
+     ],
+     "PAR": [
+      1.0,
+      1
+     ],
+     "JPN": [
+      -0.332,
+      3
+     ],
+     "KOR": [
+      -0.317,
+      4
+     ],
+     "BIH": [
+      1.0,
+      2
+     ],
+     "ENG": [
+      -0.382,
+      5
+     ],
+     "BEL": [
+      -0.182,
+      9
+     ],
+     "SCO": [
+      -0.013,
+      10
+     ],
+     "MEX": [
+      -0.053,
+      2
+     ],
+     "AUS": [
+      -0.053,
+      2
+     ],
+     "SWE": [
+      -0.526,
+      4
+     ],
+     "CAN": [
+      1.0,
+      2
+     ],
+     "KSA": [
+      0.474,
+      2
+     ],
+     "USA": [
+      0.262,
+      3
+     ],
+     "GHA": [
+      -1.0,
+      1
+     ],
+     "MAR": [
+      0.0,
+      1
+     ],
+     "QAT": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "JOR",
+   "name": "Jordan",
+   "flag": "🇯🇴",
+   "fifaRank": 37,
+   "eloRating": 1728,
+   "group": "J",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 5
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.422,
+     "knockoutWinPct": 0.382
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.894,
+     "squadDepthScore": 0.613,
+     "tacticalCohesion": 0.509
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.618,
+     "avgPossession": 49.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "TUN": [
+      -0.668,
+      3
+     ],
+     "IRQ": [
+      -0.016,
+      46
+     ],
+     "ALG": [
+      -0.668,
+      3
+     ],
+     "KSA": [
+      0.205,
+      16
+     ],
+     "QAT": [
+      -0.351,
+      18
+     ],
+     "MEX": [
+      0.0,
+      1
+     ],
+     "JPN": [
+      -0.349,
+      7
+     ],
+     "EGY": [
+      0.062,
+      5
+     ],
+     "BIH": [
+      -0.526,
+      2
+     ],
+     "IRN": [
+      -0.127,
+      13
+     ],
+     "UZB": [
+      -0.283,
+      15
+     ],
+     "KOR": [
+      -0.305,
+      9
+     ],
+     "ECU": [
+      1.0,
+      1
+     ],
+     "NOR": [
+      -0.526,
+      2
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ],
+     "SWE": [
+      0.0,
+      1
+     ],
+     "NZL": [
+      0.053,
+      2
+     ],
+     "AUS": [
+      -0.369,
+      8
+     ],
+     "URU": [
+      -0.474,
+      2
+     ],
+     "COL": [
+      -1.0,
+      2
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "PAR": [
+      -1.0,
+      1
+     ],
+     "HAI": [
+      -1.0,
+      1
+     ],
+     "MAR": [
+      -1.0,
+      2
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "SUI": [
+      -1.0,
+      1
+     ],
+     "AUT": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "NZL",
+   "name": "New Zealand",
+   "flag": "🇳🇿",
+   "fifaRank": 38,
+   "eloRating": 1711,
+   "group": "G",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "L"
+     ],
+     "last10GoalsFor": 3,
+     "last10GoalsAgainst": 5
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.411,
+     "knockoutWinPct": 0.42
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.975,
+     "squadDepthScore": 0.563,
+     "tacticalCohesion": 0.538
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.779,
+     "avgPossession": 47.4,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "AUS": [
+      -0.881,
+      67
+     ],
+     "CAN": [
+      -0.647,
+      7
+     ],
+     "RSA": [
+      -0.787,
+      6
+     ],
+     "IRQ": [
+      -0.631,
+      3
+     ],
+     "IRN": [
+      -0.332,
+      3
+     ],
+     "KOR": [
+      -0.601,
+      7
+     ],
+     "MEX": [
+      -0.832,
+      8
+     ],
+     "MAR": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      -0.576,
+      4
+     ],
+     "KSA": [
+      0.06,
+      8
+     ],
+     "SCO": [
+      -0.474,
+      2
+     ],
+     "BRA": [
+      -1.0,
+      3
+     ],
+     "GHA": [
+      1.0,
+      1
+     ],
+     "ENG": [
+      -1.0,
+      3
+     ],
+     "TUR": [
+      -1.0,
+      1
+     ],
+     "PAR": [
+      -0.668,
+      3
+     ],
+     "URU": [
+      -0.474,
+      2
+     ],
+     "QAT": [
+      -1.0,
+      1
+     ],
+     "NOR": [
+      -0.474,
+      2
+     ],
+     "EGY": [
+      -0.788,
+      4
+     ],
+     "USA": [
+      -0.631,
+      3
+     ],
+     "GER": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      2
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "JOR": [
+      -0.053,
+      2
+     ],
+     "UZB": [
+      -1.0,
+      1
+     ],
+     "POR": [
+      -1.0,
+      1
+     ],
+     "CUW": [
+      1.0,
+      1
+     ],
+     "SWE": [
+      -1.0,
+      1
+     ],
+     "COD": [
+      -0.0,
+      1
+     ],
+     "TUN": [
+      0.0,
+      1
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "ECU": [
+      -1.0,
+      1
+     ],
+     "HAI": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "IRQ",
+   "name": "Iraq",
+   "flag": "🇮🇶",
+   "fifaRank": 39,
+   "eloRating": 1710,
+   "group": "I",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 7
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.41,
+     "knockoutWinPct": 0.421
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.871,
+     "squadDepthScore": 0.58,
+     "tacticalCohesion": 0.583
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.592,
+     "avgPossession": 47.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "TUN": [
+      -0.328,
+      10
+     ],
+     "JOR": [
+      0.016,
+      46
+     ],
+     "MAR": [
+      -0.06,
+      7
+     ],
+     "IRN": [
+      -0.412,
+      26
+     ],
+     "EGY": [
+      -0.108,
+      9
+     ],
+     "ALG": [
+      0.152,
+      8
+     ],
+     "KOR": [
+      -0.743,
+      24
+     ],
+     "AUS": [
+      -0.459,
+      11
+     ],
+     "NZL": [
+      0.631,
+      3
+     ],
+     "QAT": [
+      0.068,
+      35
+     ],
+     "KSA": [
+      -0.165,
+      36
+     ],
+     "TUR": [
+      0.0,
+      1
+     ],
+     "JPN": [
+      -0.495,
+      13
+     ],
+     "GHA": [
+      0.474,
+      2
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "PAR": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -1.0,
+      1
+     ],
+     "MEX": [
+      -1.0,
+      2
+     ],
+     "UZB": [
+      -0.132,
+      12
+     ],
+     "URU": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      0.0,
+      1
+     ],
+     "ESP": [
+      -0.474,
+      2
+     ],
+     "BRA": [
+      -1.0,
+      1
+     ],
+     "COD": [
+      1.0,
+      2
+     ],
+     "ARG": [
+      -1.0,
+      1
+     ],
+     "ECU": [
+      -0.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "KSA",
+   "name": "Saudi Arabia",
+   "flag": "🇸🇦",
+   "fifaRank": 40,
+   "eloRating": 1708,
+   "group": "H",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 5
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.409,
+     "knockoutWinPct": 0.362
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.889,
+     "squadDepthScore": 0.531,
+     "tacticalCohesion": 0.623
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.39,
+     "avgPossession": 45.9,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "EGY": [
+      -0.324,
+      8
+     ],
+     "TUN": [
+      -0.067,
+      8
+     ],
+     "TUR": [
+      -1.0,
+      3
+     ],
+     "QAT": [
+      -0.225,
+      41
+     ],
+     "MAR": [
+      -0.145,
+      8
+     ],
+     "IRQ": [
+      0.165,
+      36
+     ],
+     "ALG": [
+      -0.007,
+      6
+     ],
+     "IRN": [
+      0.121,
+      14
+     ],
+     "KOR": [
+      -0.142,
+      19
+     ],
+     "JOR": [
+      -0.205,
+      16
+     ],
+     "SWE": [
+      -0.631,
+      3
+     ],
+     "NZL": [
+      -0.06,
+      8
+     ],
+     "PAR": [
+      0.0,
+      3
+     ],
+     "SCO": [
+      0.0,
+      1
+     ],
+     "ARG": [
+      -0.132,
+      5
+     ],
+     "AUS": [
+      -0.292,
+      12
+     ],
+     "BRA": [
+      -1.0,
+      5
+     ],
+     "ENG": [
+      -0.0,
+      2
+     ],
+     "JPN": [
+      -0.309,
+      18
+     ],
+     "USA": [
+      -0.259,
+      7
+     ],
+     "COL": [
+      -0.526,
+      2
+     ],
+     "NED": [
+      -1.0,
+      1
+     ],
+     "BEL": [
+      -0.402,
+      3
+     ],
+     "UZB": [
+      0.385,
+      12
+     ],
+     "MEX": [
+      -0.86,
+      7
+     ],
+     "GHA": [
+      -0.224,
+      5
+     ],
+     "GER": [
+      -1.0,
+      3
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "FRA": [
+      -1.0,
+      1
+     ],
+     "RSA": [
+      0.055,
+      4
+     ],
+     "SEN": [
+      0.631,
+      3
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "URU": [
+      -0.05,
+      4
+     ],
+     "POR": [
+      -1.0,
+      2
+     ],
+     "CZE": [
+      -0.474,
+      2
+     ],
+     "ESP": [
+      -1.0,
+      4
+     ],
+     "COD": [
+      1.0,
+      1
+     ],
+     "ECU": [
+      -0.526,
+      2
+     ],
+     "PAN": [
+      0.0,
+      1
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "HAI": [
+      1.0,
+      1
+     ],
+     "CIV": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "GHA",
+   "name": "Ghana",
+   "flag": "🇬🇭",
+   "fifaRank": 41,
+   "eloRating": 1707,
+   "group": "L",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "W",
+      "D"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 0
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.408,
+     "knockoutWinPct": 0.419
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.8,
+     "squadDepthScore": 0.524,
+     "tacticalCohesion": 0.511
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.643,
+     "avgPossession": 45.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "EGY": [
+      -0.238,
+      24
+     ],
+     "MAR": [
+      -0.226,
+      12
+     ],
+     "TUN": [
+      0.296,
+      17
+     ],
+     "COD": [
+      0.222,
+      21
+     ],
+     "CIV": [
+      0.028,
+      39
+     ],
+     "SEN": [
+      -0.23,
+      13
+     ],
+     "ALG": [
+      -0.004,
+      11
+     ],
+     "IRN": [
+      -1.0,
+      2
+     ],
+     "IRQ": [
+      -0.474,
+      2
+     ],
+     "NZL": [
+      -1.0,
+      1
+     ],
+     "KOR": [
+      0.038,
+      8
+     ],
+     "CAN": [
+      -1.0,
+      1
+     ],
+     "GER": [
+      -0.738,
+      4
+     ],
+     "JPN": [
+      -0.508,
+      8
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "AUS": [
+      -0.402,
+      7
+     ],
+     "KSA": [
+      0.224,
+      5
+     ],
+     "RSA": [
+      0.129,
+      15
+     ],
+     "BRA": [
+      -1.0,
+      5
+     ],
+     "NED": [
+      -0.701,
+      3
+     ],
+     "CPV": [
+      0.512,
+      5
+     ],
+     "MEX": [
+      -1.0,
+      4
+     ],
+     "TUR": [
+      0.0,
+      2
+     ],
+     "CZE": [
+      1.0,
+      1
+     ],
+     "USA": [
+      -0.324,
+      5
+     ],
+     "AUT": [
+      -0.526,
+      2
+     ],
+     "ARG": [
+      -1.0,
+      1
+     ],
+     "BIH": [
+      -1.0,
+      1
+     ],
+     "URU": [
+      -0.526,
+      2
+     ],
+     "ENG": [
+      -0.0,
+      2
+     ],
+     "POR": [
+      -1.0,
+      2
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "SUI": [
+      1.0,
+      1
+     ],
+     "PAN": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "RSA",
+   "name": "South Africa",
+   "flag": "🇿🇦",
+   "fifaRank": 42,
+   "eloRating": 1707,
+   "group": "A",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "D",
+      "W"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 3
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.408,
+     "knockoutWinPct": 0.391
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.933,
+     "squadDepthScore": 0.596,
+     "tacticalCohesion": 0.552
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.395,
+     "avgPossession": 50.5,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "ARG": [
+      -0.07,
+      3
+     ],
+     "NED": [
+      -1.0,
+      3
+     ],
+     "AUS": [
+      0.016,
+      21
+     ],
+     "NZL": [
+      0.787,
+      6
+     ],
+     "POR": [
+      -1.0,
+      2
+     ],
+     "MEX": [
+      -0.385,
+      5
+     ],
+     "CIV": [
+      0.099,
+      8
+     ],
+     "EGY": [
+      0.253,
+      13
+     ],
+     "GER": [
+      -0.788,
+      4
+     ],
+     "ALG": [
+      -0.06,
+      5
+     ],
+     "GHA": [
+      -0.129,
+      15
+     ],
+     "TUN": [
+      -0.212,
+      7
+     ],
+     "BRA": [
+      -1.0,
+      5
+     ],
+     "COD": [
+      0.426,
+      8
+     ],
+     "ENG": [
+      -1.0,
+      2
+     ],
+     "FRA": [
+      -0.363,
+      5
+     ],
+     "CZE": [
+      -0.0,
+      2
+     ],
+     "URU": [
+      -0.668,
+      3
+     ],
+     "MAR": [
+      0.207,
+      9
+     ],
+     "KSA": [
+      -0.055,
+      4
+     ],
+     "SWE": [
+      -0.053,
+      2
+     ],
+     "USA": [
+      -1.0,
+      3
+     ],
+     "ECU": [
+      -0.0,
+      1
+     ],
+     "SCO": [
+      -0.053,
+      2
+     ],
+     "TUR": [
+      1.0,
+      1
+     ],
+     "PAR": [
+      0.236,
+      4
+     ],
+     "ESP": [
+      -0.418,
+      4
+     ],
+     "SEN": [
+      -0.29,
+      10
+     ],
+     "CPV": [
+      -0.099,
+      6
+     ],
+     "PAN": [
+      -0.369,
+      3
+     ],
+     "CAN": [
+      1.0,
+      1
+     ],
+     "NOR": [
+      -0.402,
+      3
+     ],
+     "IRQ": [
+      -0.0,
+      1
+     ],
+     "JPN": [
+      -0.0,
+      1
+     ],
+     "COL": [
+      1.0,
+      1
+     ],
+     "KOR": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CPV",
+   "name": "Cape Verde",
+   "flag": "🇨🇻",
+   "fifaRank": 43,
+   "eloRating": 1695,
+   "group": "H",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "D"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 2
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.4,
+     "knockoutWinPct": 0.388
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.876,
+     "squadDepthScore": 0.538,
+     "tacticalCohesion": 0.603
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.58,
+     "avgPossession": 47.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "SEN": [
+      -0.787,
+      20
+     ],
+     "ALG": [
+      -0.317,
+      6
+     ],
+     "RSA": [
+      0.099,
+      6
+     ],
+     "COD": [
+      -0.332,
+      3
+     ],
+     "GHA": [
+      -0.512,
+      5
+     ],
+     "POR": [
+      0.07,
+      3
+     ],
+     "TUN": [
+      -0.738,
+      4
+     ],
+     "MAR": [
+      -0.497,
+      4
+     ],
+     "ECU": [
+      -1.0,
+      1
+     ],
+     "EGY": [
+      -0.236,
+      4
+     ],
+     "IRN": [
+      0.0,
+      1
+     ],
+     "ESP": [
+      0.0,
+      1
+     ],
+     "URU": [
+      0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "BIH",
+   "name": "Bosnia & Herzegovina",
+   "flag": "🇧🇦",
+   "fifaRank": 44,
+   "eloRating": 1678,
+   "group": "B",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "L",
+      "W"
+     ],
+     "last10GoalsFor": 5,
+     "last10GoalsAgainst": 6
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.389,
+     "knockoutWinPct": 0.348
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.906,
+     "squadDepthScore": 0.565,
+     "tacticalCohesion": 0.536
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.397,
+     "avgPossession": 47.2,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "PAR": [
+      -1.0,
+      1
+     ],
+     "CRO": [
+      -1.0,
+      4
+     ],
+     "BRA": [
+      -1.0,
+      2
+     ],
+     "TUN": [
+      -1.0,
+      1
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "CZE": [
+      -1.0,
+      2
+     ],
+     "SCO": [
+      -1.0,
+      2
+     ],
+     "QAT": [
+      0.07,
+      3
+     ],
+     "JOR": [
+      0.526,
+      2
+     ],
+     "TUR": [
+      -0.062,
+      6
+     ],
+     "ESP": [
+      -0.781,
+      8
+     ],
+     "AUT": [
+      -0.146,
+      7
+     ],
+     "UZB": [
+      -0.474,
+      2
+     ],
+     "IRN": [
+      -0.553,
+      7
+     ],
+     "GER": [
+      -0.788,
+      4
+     ],
+     "NOR": [
+      -0.006,
+      4
+     ],
+     "FRA": [
+      -0.488,
+      6
+     ],
+     "BEL": [
+      -0.248,
+      8
+     ],
+     "JPN": [
+      0.037,
+      3
+     ],
+     "KOR": [
+      0.053,
+      2
+     ],
+     "POR": [
+      -0.844,
+      6
+     ],
+     "GHA": [
+      1.0,
+      1
+     ],
+     "SWE": [
+      -1.0,
+      1
+     ],
+     "MEX": [
+      -0.477,
+      4
+     ],
+     "ALG": [
+      1.0,
+      1
+     ],
+     "USA": [
+      -0.668,
+      3
+     ],
+     "EGY": [
+      -1.0,
+      1
+     ],
+     "CIV": [
+      1.0,
+      1
+     ],
+     "SUI": [
+      -0.053,
+      2
+     ],
+     "SEN": [
+      0.0,
+      1
+     ],
+     "NED": [
+      -0.497,
+      4
+     ],
+     "ENG": [
+      -1.0,
+      1
+     ],
+     "PAN": [
+      0.0,
+      1
+     ],
+     "CAN": [
+      0.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "TUN",
+   "name": "Tunisia",
+   "flag": "🇹🇳",
+   "fifaRank": 45,
+   "eloRating": 1677,
+   "group": "F",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 12
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.388,
+     "knockoutWinPct": 0.355
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.863,
+     "squadDepthScore": 0.541,
+     "tacticalCohesion": 0.526
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.516,
+     "avgPossession": 45.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "IRQ": [
+      0.328,
+      10
+     ],
+     "MAR": [
+      -0.29,
+      37
+     ],
+     "CIV": [
+      -0.265,
+      20
+     ],
+     "JOR": [
+      0.668,
+      3
+     ],
+     "COD": [
+      0.59,
+      14
+     ],
+     "SEN": [
+      0.13,
+      21
+     ],
+     "GHA": [
+      -0.296,
+      17
+     ],
+     "ALG": [
+      -0.206,
+      38
+     ],
+     "TUR": [
+      -0.16,
+      5
+     ],
+     "KSA": [
+      0.067,
+      8
+     ],
+     "AUT": [
+      -0.62,
+      5
+     ],
+     "EGY": [
+      0.49,
+      31
+     ],
+     "BRA": [
+      -0.631,
+      3
+     ],
+     "SWE": [
+      -0.4,
+      5
+     ],
+     "QAT": [
+      0.053,
+      4
+     ],
+     "NED": [
+      -0.503,
+      4
+     ],
+     "FRA": [
+      -0.114,
+      5
+     ],
+     "MEX": [
+      1.0,
+      1
+     ],
+     "GER": [
+      -0.369,
+      3
+     ],
+     "CAN": [
+      0.474,
+      2
+     ],
+     "ENG": [
+      -0.701,
+      3
+     ],
+     "NOR": [
+      -0.474,
+      2
+     ],
+     "BEL": [
+      -0.502,
+      5
+     ],
+     "SUI": [
+      -0.668,
+      3
+     ],
+     "RSA": [
+      0.212,
+      7
+     ],
+     "JPN": [
+      -0.616,
+      6
+     ],
+     "BIH": [
+      1.0,
+      1
+     ],
+     "COL": [
+      -0.474,
+      2
+     ],
+     "USA": [
+      0.0,
+      1
+     ],
+     "KOR": [
+      -0.037,
+      3
+     ],
+     "POR": [
+      -0.0,
+      2
+     ],
+     "ARG": [
+      -1.0,
+      1
+     ],
+     "AUS": [
+      -0.053,
+      2
+     ],
+     "URU": [
+      0.0,
+      1
+     ],
+     "ESP": [
+      -1.0,
+      2
+     ],
+     "CPV": [
+      0.738,
+      4
+     ],
+     "IRN": [
+      0.701,
+      3
+     ],
+     "PAN": [
+      1.0,
+      1
+     ],
+     "CRO": [
+      0.474,
+      2
+     ],
+     "NZL": [
+      -0.0,
+      1
+     ],
+     "HAI": [
+      1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "HAI",
+   "name": "Haiti",
+   "flag": "🇭🇹",
+   "fifaRank": 46,
+   "eloRating": 1668,
+   "group": "C",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 8
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.382,
+     "knockoutWinPct": 0.425
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.949,
+     "squadDepthScore": 0.498,
+     "tacticalCohesion": 0.491
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.479,
+     "avgPossession": 46.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "CUW": [
+      0.053,
+      26
+     ],
+     "PAN": [
+      -0.245,
+      19
+     ],
+     "MEX": [
+      -0.806,
+      11
+     ],
+     "USA": [
+      -0.588,
+      19
+     ],
+     "ECU": [
+      -0.248,
+      5
+     ],
+     "COL": [
+      -0.529,
+      4
+     ],
+     "URU": [
+      -0.332,
+      3
+     ],
+     "CAN": [
+      -0.776,
+      14
+     ],
+     "BRA": [
+      -1.0,
+      4
+     ],
+     "ARG": [
+      -1.0,
+      3
+     ],
+     "QAT": [
+      1.0,
+      2
+     ],
+     "ESP": [
+      -1.0,
+      1
+     ],
+     "KOR": [
+      -1.0,
+      1
+     ],
+     "JPN": [
+      0.0,
+      1
+     ],
+     "JOR": [
+      1.0,
+      1
+     ],
+     "KSA": [
+      -1.0,
+      1
+     ],
+     "TUN": [
+      -1.0,
+      1
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "SCO": [
+      -1.0,
+      1
+     ],
+     "MAR": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "CUW",
+   "name": "Curaçao",
+   "flag": "🇨🇼",
+   "fifaRank": 47,
+   "eloRating": 1600,
+   "group": "E",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "L",
+      "D",
+      "L"
+     ],
+     "last10GoalsFor": 1,
+     "last10GoalsAgainst": 9
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.337,
+     "knockoutWinPct": 0.373
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.86,
+     "squadDepthScore": 0.481,
+     "tacticalCohesion": 0.519
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.679,
+     "avgPossession": 46.6,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "HAI": [
+      -0.053,
+      26
+     ],
+     "PAN": [
+      -0.079,
+      9
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "NED": [
+      -0.091,
+      6
+     ],
+     "MEX": [
+      -0.48,
+      7
+     ],
+     "USA": [
+      -0.701,
+      3
+     ],
+     "CAN": [
+      -0.709,
+      4
+     ],
+     "QAT": [
+      1.0,
+      1
+     ],
+     "NZL": [
+      -1.0,
+      1
+     ],
+     "ARG": [
+      -1.0,
+      1
+     ],
+     "AUS": [
+      -1.0,
+      1
+     ],
+     "SCO": [
+      -1.0,
+      1
+     ],
+     "GER": [
+      -1.0,
+      1
+     ],
+     "ECU": [
+      0.0,
+      1
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ]
+    }
+   }
+  },
+  {
+   "code": "QAT",
+   "name": "Qatar",
+   "flag": "🇶🇦",
+   "fifaRank": 48,
+   "eloRating": 1544,
+   "group": "B",
+   "stats": {
+    "recentForm": {
+     "last5": [
+      "D",
+      "L",
+      "L"
+     ],
+     "last10GoalsFor": 2,
+     "last10GoalsAgainst": 10
+    },
+    "historical": {
+     "wcTitles": 0,
+     "wcFinals": 0,
+     "wcSemis": 0,
+     "allTimeWinPct": 0.3,
+     "knockoutWinPct": 0.275
+    },
+    "squad": {
+     "keyPlayersAvailable": 0.806,
+     "squadDepthScore": 0.49,
+     "tacticalCohesion": 0.518
+    },
+    "tactical": {
+     "penaltyShootoutWinPct": 0.665,
+     "avgPossession": 41.3,
+     "momentum": 0.0
+    },
+    "h2h": {
+     "KSA": [
+      0.225,
+      41
+     ],
+     "ALG": [
+      -0.514,
+      6
+     ],
+     "MAR": [
+      -0.474,
+      2
+     ],
+     "IRQ": [
+      -0.068,
+      35
+     ],
+     "TUN": [
+      -0.053,
+      4
+     ],
+     "KOR": [
+      -0.261,
+      10
+     ],
+     "JOR": [
+      0.351,
+      18
+     ],
+     "PAR": [
+      0.026,
+      4
+     ],
+     "IRN": [
+      -0.319,
+      25
+     ],
+     "JPN": [
+      -0.026,
+      8
+     ],
+     "EGY": [
+      -0.149,
+      8
+     ],
+     "NOR": [
+      -1.0,
+      1
+     ],
+     "ECU": [
+      -0.265,
+      4
+     ],
+     "NZL": [
+      1.0,
+      1
+     ],
+     "BIH": [
+      -0.07,
+      3
+     ],
+     "UZB": [
+      -0.436,
+      17
+     ],
+     "SWE": [
+      -0.526,
+      2
+     ],
+     "ARG": [
+      -1.0,
+      2
+     ],
+     "CIV": [
+      -1.0,
+      1
+     ],
+     "AUS": [
+      -0.292,
+      5
+     ],
+     "CRO": [
+      -1.0,
+      1
+     ],
+     "COD": [
+      -0.0,
+      1
+     ],
+     "BEL": [
+      -1.0,
+      1
+     ],
+     "HAI": [
+      -1.0,
+      2
+     ],
+     "SCO": [
+      -1.0,
+      1
+     ],
+     "TUR": [
+      -1.0,
+      1
+     ],
+     "CUW": [
+      -1.0,
+      1
+     ],
+     "CZE": [
+      -1.0,
+      1
+     ],
+     "SUI": [
+      0.474,
+      2
+     ],
+     "BRA": [
+      -1.0,
+      1
+     ],
+     "COL": [
+      -1.0,
+      1
+     ],
+     "GHA": [
+      -1.0,
+      1
+     ],
+     "PAN": [
+      -0.037,
+      3
+     ],
+     "USA": [
+      -1.0,
+      1
+     ],
+     "POR": [
+      -1.0,
+      2
+     ],
+     "CAN": [
+      -1.0,
+      2
+     ],
+     "SEN": [
+      -1.0,
+      1
+     ],
+     "NED": [
+      -1.0,
+      1
+     ],
+     "MEX": [
+      1.0,
+      1
+     ]
+    }
+   }
+  }
+ ]
+}
