@@ -19,7 +19,7 @@ export const DEFAULT_WEIGHTS = {
 // spread between teams, so moving a slider visibly changes the order.
 
 export function baseScore(team, W) {
-  const z = team.z;
+  const z = team.z || { pedigree: 0, knockout: 0, gfga: 0, experience: 0, form: 0, avail: 0, depth: 0, cohesion: 0, elo: 0, momentum: 0 };
   const sum = (pairs) => pairs.reduce((s, [v, w]) => s + v * w, 0);
   const b1 = sum([[z.pedigree, W.b1.pedigree], [z.knockout, W.b1.knockout], [z.gfga, W.b1.gfga], [z.experience, W.b1.experience]]);
   const b2 = sum([[z.form, W.b2.form], [z.avail, W.b2.avail], [z.depth, W.b2.depth], [z.cohesion, W.b2.cohesion], [z.elo, W.b2.elo]]);

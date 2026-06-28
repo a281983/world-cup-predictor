@@ -129,6 +129,7 @@ export async function refreshLive(state) {
       };
       rec(A, ft[0], ft[1]); rec(B, ft[1], ft[0]);
       score[`${A.code}|${B.code}`] = ft;
+      score[`${B.code}|${A.code}`] = [ft[1], ft[0]];   // order-independent
       if (m.date > latest) latest = m.date;
     }
   }
@@ -138,6 +139,24 @@ export async function refreshLive(state) {
     if (score[key] && !gm.played) newResults++;
     if (score[key]) { gm.played = true; gm.score = score[key]; }
   }
+
+  // fold openfootball's resolved knockout bracket: as group/KO games finish, the
+  // upstream feed fills real teams into the slots (applying FIFA's official
+  // third-place allocation) and adds knockout scores. Read those directly so the
+  // bracket always matches reality, instead of re-deriving the seeding ourselves.
+  const KO = new Set(["Round of 32", "Round of 16", "Quarter-final", "Semi-final", "Match for third place", "Final"]);
+  const ofKo = raw.matches.filter((m) => KO.has(m.round));
+  const ourKo = matches.knockout.slice().sort((a, b) => a.num - b.num);
+  for (let i = 0; i < ourKo.length && i < ofKo.length; i++) {
+    const om = ofKo[i], gm = ourKo[i];
+    const A = byName[om.team1], B = byName[om.team2];
+    if (A) gm.team1 = A.code;                 // resolve slot/winner token -> real team once known
+    if (B) gm.team2 = B.code;
+    const ft = om.score && om.score.ft;
+    if (ft && !gm.played) newResults++;
+    if (ft) { gm.played = true; gm.score = ft; }
+  }
+
   for (const t of teams.list) t.stats.recentForm.last5 = t.stats.recentForm.last5.slice(-5);
   buildNorms(teams.list);
   state.snapshot = latest;

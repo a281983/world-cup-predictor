@@ -10,11 +10,19 @@ Sources:
   - Deeper "squad"/"tactical" stats: SYNTHETIC, deterministically derived from Elo + a
     seeded jitter. Illustrative only — documented as such in README.
 """
-import json, hashlib, os
+import json, hashlib, os, urllib.request
 
 SRC = "/tmp/wc2026.json"
+OPENFOOTBALL = "https://raw.githubusercontent.com/openfootball/worldcup.json/master/2026/worldcup.json"
 OUT = os.path.join(os.path.dirname(__file__), "data")
 os.makedirs(OUT, exist_ok=True)
+
+# always pull the latest so the knockout bracket reflects results as they resolve
+try:
+    urllib.request.urlretrieve(OPENFOOTBALL, SRC)
+    print("fetched latest openfootball")
+except Exception as e:
+    print("could not fetch openfootball, using cached copy:", e)
 
 raw = json.load(open(SRC))
 matches = raw["matches"]

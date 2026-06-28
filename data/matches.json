@@ -1,6 +1,6 @@
 {
  "_note": "Group results with played=true are real (openfootball). Slot tokens like '1F','2J','3A/B/C/D/F','W74' are resolved at runtime by the prediction engine.",
- "lastSnapshot": "2026-06-25",
+ "lastSnapshot": "2026-06-27",
  "source": "openfootball/worldcup.json (MIT)",
  "groupMatches": [
   {
@@ -705,8 +705,11 @@
    "date": "2026-06-25",
    "team1": "TUR",
    "team2": "USA",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    3,
+    2
+   ]
   },
   {
    "num": 60,
@@ -714,8 +717,11 @@
    "date": "2026-06-25",
    "team1": "PAR",
    "team2": "AUS",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "num": 61,
@@ -723,8 +729,11 @@
    "date": "2026-06-26",
    "team1": "NOR",
    "team2": "FRA",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    1,
+    4
+   ]
   },
   {
    "num": 62,
@@ -732,8 +741,11 @@
    "date": "2026-06-26",
    "team1": "SEN",
    "team2": "IRQ",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    5,
+    0
+   ]
   },
   {
    "num": 63,
@@ -741,8 +753,11 @@
    "date": "2026-06-26",
    "team1": "URU",
    "team2": "ESP",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    0,
+    1
+   ]
   },
   {
    "num": 64,
@@ -750,8 +765,11 @@
    "date": "2026-06-26",
    "team1": "CPV",
    "team2": "KSA",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "num": 65,
@@ -759,8 +777,11 @@
    "date": "2026-06-26",
    "team1": "EGY",
    "team2": "IRN",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    1,
+    1
+   ]
   },
   {
    "num": 66,
@@ -768,8 +789,11 @@
    "date": "2026-06-26",
    "team1": "NZL",
    "team2": "BEL",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    1,
+    5
+   ]
   },
   {
    "num": 67,
@@ -777,8 +801,11 @@
    "date": "2026-06-27",
    "team1": "PAN",
    "team2": "ENG",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    0,
+    2
+   ]
   },
   {
    "num": 68,
@@ -786,8 +813,11 @@
    "date": "2026-06-27",
    "team1": "CRO",
    "team2": "GHA",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    2,
+    1
+   ]
   },
   {
    "num": 69,
@@ -795,8 +825,11 @@
    "date": "2026-06-27",
    "team1": "COL",
    "team2": "POR",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    0,
+    0
+   ]
   },
   {
    "num": 70,
@@ -804,8 +837,11 @@
    "date": "2026-06-27",
    "team1": "COD",
    "team2": "UZB",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    3,
+    1
+   ]
   },
   {
    "num": 71,
@@ -813,8 +849,11 @@
    "date": "2026-06-27",
    "team1": "ALG",
    "team2": "AUT",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    3,
+    3
+   ]
   },
   {
    "num": 72,
@@ -822,8 +861,11 @@
    "date": "2026-06-27",
    "team1": "JOR",
    "team2": "ARG",
-   "played": false,
-   "score": null
+   "played": true,
+   "score": [
+    1,
+    3
+   ]
   }
  ],
  "knockout": [
@@ -843,7 +885,7 @@
    "date": "2026-06-29",
    "ground": "Boston (Foxborough)",
    "team1": "GER",
-   "team2": "3A/B/C/D/F",
+   "team2": "PAR",
    "played": false,
    "score": null
   },
@@ -852,7 +894,7 @@
    "round": "Round of 32",
    "date": "2026-06-29",
    "ground": "Monterrey (Guadalupe)",
-   "team1": "1F",
+   "team1": "NED",
    "team2": "MAR",
    "played": false,
    "score": null
@@ -863,7 +905,7 @@
    "date": "2026-06-29",
    "ground": "Houston",
    "team1": "BRA",
-   "team2": "2F",
+   "team2": "JPN",
    "played": false,
    "score": null
   },
@@ -872,8 +914,8 @@
    "round": "Round of 32",
    "date": "2026-06-30",
    "ground": "New York/New Jersey (East Rutherford)",
-   "team1": "1I",
-   "team2": "3C/D/F/G/H",
+   "team1": "FRA",
+   "team2": "SWE",
    "played": false,
    "score": null
   },
@@ -882,8 +924,8 @@
    "round": "Round of 32",
    "date": "2026-06-30",
    "ground": "Dallas (Arlington)",
-   "team1": "2E",
-   "team2": "2I",
+   "team1": "CIV",
+   "team2": "NOR",
    "played": false,
    "score": null
   },
@@ -893,7 +935,7 @@
    "date": "2026-06-30",
    "ground": "Mexico City",
    "team1": "MEX",
-   "team2": "3C/E/F/H/I",
+   "team2": "ECU",
    "played": false,
    "score": null
   },
@@ -902,8 +944,8 @@
    "round": "Round of 32",
    "date": "2026-07-01",
    "ground": "Atlanta",
-   "team1": "1L",
-   "team2": "3E/H/I/J/K",
+   "team1": "ENG",
+   "team2": "COD",
    "played": false,
    "score": null
   },
@@ -913,7 +955,7 @@
    "date": "2026-07-01",
    "ground": "San Francisco Bay Area (Santa Clara)",
    "team1": "USA",
-   "team2": "3B/E/F/I/J",
+   "team2": "BIH",
    "played": false,
    "score": null
   },
@@ -922,8 +964,8 @@
    "round": "Round of 32",
    "date": "2026-07-01",
    "ground": "Seattle",
-   "team1": "1G",
-   "team2": "3A/E/H/I/J",
+   "team1": "BEL",
+   "team2": "SEN",
    "played": false,
    "score": null
   },
@@ -932,8 +974,8 @@
    "round": "Round of 32",
    "date": "2026-07-02",
    "ground": "Toronto",
-   "team1": "2K",
-   "team2": "2L",
+   "team1": "POR",
+   "team2": "CRO",
    "played": false,
    "score": null
   },
@@ -942,8 +984,8 @@
    "round": "Round of 32",
    "date": "2026-07-02",
    "ground": "Los Angeles (Inglewood)",
-   "team1": "1H",
-   "team2": "2J",
+   "team1": "ESP",
+   "team2": "AUT",
    "played": false,
    "score": null
   },
@@ -953,7 +995,7 @@
    "date": "2026-07-02",
    "ground": "Vancouver",
    "team1": "SUI",
-   "team2": "3E/F/G/I/J",
+   "team2": "ALG",
    "played": false,
    "score": null
   },
@@ -962,8 +1004,8 @@
    "round": "Round of 32",
    "date": "2026-07-03",
    "ground": "Miami (Miami Gardens)",
-   "team1": "1J",
-   "team2": "2H",
+   "team1": "ARG",
+   "team2": "CPV",
    "played": false,
    "score": null
   },
@@ -972,8 +1014,8 @@
    "round": "Round of 32",
    "date": "2026-07-03",
    "ground": "Kansas City",
-   "team1": "1K",
-   "team2": "3D/E/I/J/L",
+   "team1": "COL",
+   "team2": "GHA",
    "played": false,
    "score": null
   },
@@ -982,8 +1024,8 @@
    "round": "Round of 32",
    "date": "2026-07-03",
    "ground": "Dallas (Arlington)",
-   "team1": "2D",
-   "team2": "2G",
+   "team1": "AUS",
+   "team2": "EGY",
    "played": false,
    "score": null
   },

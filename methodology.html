@@ -225,12 +225,13 @@ then ranked on <strong>points → goal difference → goals for → Elo</strong>
 runner-up and third place.</p>
 
 <h2 id="seeding"><span class="n">08</span>Knockout seeding (the tricky part)</h2>
-<p>In the 48-team format, the <strong>eight best third-placed teams</strong> advance. They are ranked
-across all twelve groups (points → GD → GF → Elo) and the top eight qualify. Each Round-of-32 slot for
-a third-placed team lists which groups are eligible (e.g. <code>3A/B/C/D/F</code>). Assigning the eight
-qualifiers to the eight slots so every eligibility rule holds is a <strong>constraint-satisfaction
-problem</strong>, solved here by backtracking search (slots with fewest options filled first). This
-reproduces FIFA's official allocation table rather than approximating it.</p>
+<p>In the 48-team format, the <strong>eight best third-placed teams</strong> advance, and slotting them
+into the Round of 32 follows a <em>specific official FIFA allocation table</em> — and there can be
+several technically-valid matchings, so a naive solver picks the wrong one. Rather than reverse-engineer
+that table, the app reads the <strong>real resolved bracket from openfootball</strong>, which applies the
+official allocation as results come in. Every Round-of-32 slot that has been decided is taken from the
+source feed verbatim; only slots that genuinely haven't resolved yet fall back to an internal
+constraint-matching estimate. With the group stage complete, the entire Round of 32 is real.</p>
 
 <h2 id="knockout"><span class="n">09</span>Knockout simulation</h2>
 <p>The bracket is resolved in match-number order, 73 → 104, following the real wiring. Each
